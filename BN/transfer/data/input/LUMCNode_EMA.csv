@@ -1,0 +1,121 @@
+﻿Data_source,Reference number,Product_category_new,Year,Product_desc,Product_name,Product_fraudtype,Or_country-iso3,Or_transparency_index,Or_foodsafety_index
+EMA,EMA_000665,Nuts,2011,almond powder,Almonds and almond products,Substitution,GBR,,
+EMA,EMA_000638,Vegetables,2015,pigeon pea,Beans and peas,Dilution,IND,38,48.9
+EMA,EMA_000639,Vegetables,2015,beans,Beans and peas,Artificial Enhancement,TWN,62,
+EMA,EMA_000694,Vegetables,2011,bean sprouts,Beans and peas,Artificial Enhancement,CHN,,
+EMA,EMA_000695,Vegetables,2010,peas,Beans and peas,Artificial Enhancement,CHN,,
+EMA,EMA_000518,Confectionary,2008,candy,Candy,Dilution,CHN,,
+EMA,EMA_000687,Confectionary,2015,jaggery,Candy,Artificial Enhancement,IND,38,48.9
+EMA,EMA_000693,Confectionary,2017,jaggery,Candy,Artificial Enhancement,IND,40,48.9
+EMA,EMA_000492,Grain_products,2011,grains,Cereal grains,Dilution,IND,,
+EMA,EMA_000494,Grain_products,2011,wheat,Cereal grains,Dilution,IND,,
+EMA,EMA_000497,Grain_products,2011,grains,Cereal grains,Dilution,IND,,
+EMA,EMA_000450,Grain_products,2011,pastry,Cereal products,Artificial Enhancement,CHN,,
+EMA,EMA_000498,Grain_products,2014,berries,,,,,
+EMA,EMA_000689,Grain_products,2015,cheesecakes,,,,,
+EMA,EMA_000514,Dairy,2010,mozarella,Cheese,Dilution,ITA,,
+EMA,EMA_000525,Dairy,2009,cheese,Cheese,Mislabeling,NIC,,
+EMA,EMA_000538,Dairy,2014,cheese,Cheese,Intentional Distribution of Contaminated Product,USA,74,86.2
+EMA,EMA_000628,Herbs_spices,2008,chili powder,Chilli powder,Dilution,IND,,
+EMA,EMA_000632,Herbs_spices,2015,cinnamon,Cinnamon,Smuggling,IND,38,48.9
+EMA,EMA_000602,Fish_Seafood,2015,crab,Crabs and lobsters,Substitution,USA,76,85.8
+EMA,EMA_000611,Fish_Seafood,2015,lobster,Crabs and lobsters,Substitution,USA,76,85.8
+EMA,EMA_000614,Fish_Seafood,2014,king crab,,,,,
+EMA,EMA_000610,Fish_Seafood,2015,dried fish,Cured fish,Artificial Enhancement,BGD,25,36
+EMA,EMA_000621,Herbs_spices,2011,curry,Curry,Artificial Enhancement,IND,,
+EMA,EMA_000635,Herbs_spices,2015,curry powder,,,,,
+EMA,EMA_000618,Fruits,2015,mangoes,Fruits,Artificial Enhancement,IND,38,48.9
+EMA,EMA_000619,Fruits,2015,tangerine,Fruits,Transshipment/Origin Masking,CHN,37,64.3
+EMA,EMA_000673,Honey,2011,honey,Honey,Dilution,ARG,,
+EMA,EMA_000677,Honey,2009,honey,Honey,Mislabeling,CHN,,
+EMA,EMA_000685,Honey,2015,honey,Honey,Dilution,IND,38,48.9
+EMA,EMA_000686,Honey,2015,honey,Honey,Mislabeling,IRL,75,82.3
+EMA,EMA_000688,Honey,2014,honey,Honey,Transshipment/Origin Masking,CHN,36,63.5
+EMA,EMA_000690,Honey,2016,honey,Honey,Dilution,CHN,40,65.5
+EMA,EMA_000692,Honey,2016,honey,Honey,Transshipment/Origin Masking,CHN,40,65.5
+EMA,EMA_000516,Dairy,2011,ice cream,Ice cream,Dilution,IND,,
+EMA,EMA_000520,Dairy,2014,ice cream,Ice cream,Mislabeling,USA,74,86.2
+EMA,EMA_000536,Dairy,2015,infant formula,Infant formula,Mislabeling,USA,76,85.8
+EMA,EMA_000657,Meat,2011,beef,,,,,
+EMA,EMA_000661,Meat,2011,beef,,,,,
+EMA,EMA_000505,Dairy,2011,mawa,,,,,
+EMA,EMA_000515,Dairy,2011,ghee,Milk fat,Dilution,IND,,
+EMA,EMA_000526,Dairy,2011,ghee,Milk fat,Substitution,IND,,
+EMA,EMA_000655,Meat,2010,chuck for stew,,,,,
+EMA,EMA_000664,Meat,2015,meat,,,,,
+EMA,EMA_000582,Oils_Fats,2016,mustard oil,Mustard oil,Substitution,IND,40,49.4
+EMA,EMA_000550,Oils_Fats,2009,grapeseed oil,,,,,
+EMA,EMA_000551,Oils_Fats,2009,olive oil,Olive oil,Dilution,AUS,,
+EMA,EMA_000556,Oils_Fats,2008,olive oil,Olive oil,Substitution,ITA,,
+EMA,EMA_000558,Oils_Fats,2010,olive oil,Olive oil,Substitution,ESP,,
+EMA,EMA_000559,Oils_Fats,2010,olive oil,Olive oil,Substitution,AUS,,
+EMA,EMA_000563,Oils_Fats,2011,olive oil,Olive oil,Transshipment/Origin Masking,ESP,,
+EMA,EMA_000564,Oils_Fats,2015,olive oil,Olive oil,Transshipment/Origin Masking,TUR,42,64.1
+EMA,EMA_000566,Oils_Fats,2016,olive oil,,,,,
+EMA,EMA_000569,Oils_Fats,2014,olive oil,Olive oil,Dilution,USA,74,86.2
+EMA,EMA_000572,Oils_Fats,2015,extra virgin olive oil,Olive oil,Transshipment/Origin Masking,ITA,44,75
+EMA,EMA_000573,Oils_Fats,2015,olive oil,Olive oil,Substitution,TUR,42,64.1
+EMA,EMA_000577,Oils_Fats,2014,olive oil,,,,,
+EMA,EMA_000579,Oils_Fats,2016,olive oil,Olive oil,Dilution,ISR,64,78.9
+EMA,EMA_000580,Oils_Fats,2016,olive oil,Olive oil,Substitution,ESP,58,77.7
+EMA,EMA_000583,Oils_Fats,2017,olive oil,Olive oil,Substitution,ITA,50,75.9
+EMA,EMA_000560,Oils_Fats,2009,oil,Other oils,Substitution,CHN,,
+EMA,EMA_000567,Oils_Fats,2015,oil,,,,,
+EMA,EMA_000574,Oils_Fats,2015,oil,Other oils,Dilution,IND,38,48.9
+EMA,EMA_000608,Fish_Seafood,2015,seafood,Other seafoods,Artificial Enhancement,ESP,58,76.9
+EMA,EMA_000609,Fish_Seafood,2015,turtles,Other seafoods,Smuggling,PAK,30,47.4
+EMA,EMA_000613,Fish_Seafood,2013,seafood,Other seafoods,Mislabeling,TWN,61,
+EMA,EMA_000575,Oils_Fats,2015,palm oil,Palm oil,Artificial Enhancement,GHA,47,47.6
+EMA,EMA_000576,Oils_Fats,2015,palm oil,Palm oil,Artificial Enhancement,GHA,47,47.6
+EMA,EMA_000634,Herbs_spices,2013,cumin,,,,,
+EMA,EMA_000646,Meat,2010,beef,Raw cow meat,Artificial Enhancement,MEX,,
+EMA,EMA_000663,Meat,2008,beef,Raw cow meat,Transshipment/Origin Masking,USA,,
+EMA,EMA_000660,Poultry,2011,duck meat,Raw duck meat,Mislabeling,CHN,,
+EMA,EMA_000588,Fish_Seafood,2010,noodlefish,Raw fish,Artificial Enhancement,CHN,,
+EMA,EMA_000603,Fish_Seafood,2009,halibut,Raw fish,Substitution,CHN,,
+EMA,EMA_000606,Fish_Seafood,2009,catfish,Raw fish,Transshipment/Origin Masking,CHN,,
+EMA,EMA_000615,Fish_Seafood,2016,fish,Raw fish,Intentional Distribution of Contaminated Product,GBR,81,81.9
+EMA,EMA_000589,Fish_Seafood,2010,basa,,,,,
+EMA,EMA_000607,Fish_Seafood,2008,flounder,,,,,
+EMA,EMA_000501,Dairy,2011,milk,Raw milk,Artificial Enhancement,CHN,,
+EMA,EMA_000512,Dairy,2008,milk,Raw milk,Dilution,BRA,,
+EMA,EMA_000513,Dairy,2015,milk,Raw milk,Dilution,IND,38,48.9
+EMA,EMA_000528,Dairy,2011,milk,Raw milk,Substitution,IND,,
+EMA,EMA_000530,Dairy,2014,milk,Raw milk,Dilution,IND,38,47.9
+EMA,EMA_000532,Dairy,2015,milk,Raw milk,Dilution,IND,38,48.9
+EMA,EMA_000533,Dairy,2015,milk,Raw milk,Dilution,IND,38,48.9
+EMA,EMA_000534,Dairy,2015,milk,Raw milk,Dilution,IND,38,48.9
+EMA,EMA_000535,Dairy,2015,milk,Raw milk,Dilution,UGA,25,44.1
+EMA,EMA_000539,Dairy,2016,milk,Raw milk,Dilution,IND,40,49.4
+EMA,EMA_000644,Meat,2009,pork,Raw pig meat,Artificial Enhancement,CHN,,
+EMA,EMA_000654,Meat,2009,pork shoulder,Raw pig meat,Intentional Distribution of Contaminated Product,PRI,,
+EMA,EMA_000658,Meat,2010,pork,Raw pig meat,Mislabeling,CHN,,
+EMA,EMA_000491,Grain_products,2009,rice,Rice,Dilution,CHN,,
+EMA,EMA_000496,Grain_products,2011,rice,Rice,Substitution,CHN,,
+EMA,EMA_000495,Grain_products,2015,noodles,Rice products,Mislabeling,IND,38,48.9
+EMA,EMA_000630,Herbs_spices,2010,saffron,Saffron,Transshipment/Origin Masking,IRN,,
+EMA,EMA_000596,Fish_Seafood,2010,salmon,,,,,
+EMA,EMA_000636,Vegetables,2014,tofu,Soy and soy products,Artificial Enhancement,CHN,36,63.5
+EMA,EMA_000570,Oils_Fats,2015,soybean oil,Soybean oil,Substitution,IND,38,48.9
+EMA,EMA_000571,Oils_Fats,2015,soybean oil,,,,,
+EMA,EMA_000668,Oils_Fats,2014,soybean oil,,,,,
+EMA,EMA_000471,Alcoholic,2011,vodka,Spirits,Dilution,GBR,,
+EMA,EMA_000472,Alcoholic,2008,alcoholic beverages,Spirits,Dilution,IND,,
+EMA,EMA_000473,Alcoholic,2011,vodka,Spirits,Dilution,GBR,,
+EMA,EMA_000475,Alcoholic,2011,alcoholic beverages,Spirits,Dilution,IND,,
+EMA,EMA_000476,Alcoholic,2015,liquor,Spirits,Mislabeling,IND,38,48.9
+EMA,EMA_000482,Alcoholic,2011,rice alcohol,Spirits,Substitution,VNM,,
+EMA,EMA_000483,Alcoholic,2008,vodka,Spirits,Substitution,GBR,,
+EMA,EMA_000679,Confectionary,2009,maple syrup,Sugar and syrup,Substitution,USA,,
+EMA,EMA_000562,Oils_Fats,2008,sunflower oil,Sunflower oil,Substitution,UKR,,
+EMA,EMA_000451,Tea,2011,tea,Tea,Artificial Enhancement,IND,,
+EMA,EMA_000616,Fish_Seafood,2016,tuna,Tuna and swordfish,Mislabeling,USA,74,86.6
+EMA,EMA_000623,Herbs_spices,2010,turmeric,Turmeric,Artificial Enhancement,IND,,
+EMA,EMA_000627,Herbs_spices,2011,turmeric,Turmeric,Dilution,IND,,
+EMA,EMA_000633,Herbs_spices,2015,turmeric,Turmeric,Artificial Enhancement,IND,38,48.9
+EMA,EMA_000641,Prepared_meals,2017,chicken,,,,,
+EMA,EMA_000700,Vegetables,2010,garlic,Vegetables and vegetable products,Transshipment/Origin Masking,CHN,,
+EMA,EMA_000702,Vegetables,2014,salad,Vegetables and vegetable products,Intentional Distribution of Contaminated Product,USA,74,86.2
+EMA,EMA_000703,Vegetables,2017,garlic paste,,,,,
+EMA,EMA_000453,Alcoholic,2008,wine,Wine,Artificial Enhancement,ITA,,
+EMA,EMA_000468,Alcoholic,2008,wine,Wine,Dilution,ITA,,

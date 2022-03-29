@@ -1,0 +1,459 @@
+row ID,Data_source,Product_category,Month,Year,Product_name,Fraud_complexity,Fraud_profitability,Fraud_detection,Trade_volume,Price_year,Or_country-name,Or_transparency_index,Or_foodsafety_index,Or_governance_index,Or_legal_system_index,Or_supplychain_index,Or_risk_index,Or_GDP,Or_economic_growth,Or_press_index,Or_Human_Development_index,Or_technology_index,Ct_country-name,Ct_transparency_index,Ct_foodsafety_index,Ct_rasffratio,Ct_resilience_index,Product_fraudtype
+Row0,EMA,Grain_products,,2011,Cereal products,Easy,,,181691,3277.052798,China,,,-0.557473366,,,,7.57E+12,9.54,,0.714,,United States,,,,,Artificial enhancement/Improvement
+Row1,EMA,Tea,,2011,Tea,Easy,High,Difficult,322548,2688.415368,India,,,-0.309421419,,,,1.82E+12,6.64,,0.591,,United States,,,,,Artificial enhancement/Improvement
+Row2,EMA,Alcoholic,,2008,Wine,Easy,High,Easy,1733889,3043.758857,Italy,,,0.593475645,,,,2.39E+12,-1.05,,0.868,,United States,,,,,Substitution-Dilution
+Row3,EMA,Alcoholic,,2008,Wine,Easy,High,Easy,1733889,3043.758857,Italy,,,0.593475645,,,,2.39E+12,-1.05,,0.868,,United States,,,,,Substitution-Dilution
+Row4,EMA,Alcoholic,,2011,Spirits,Easy,High,Easy,2104944,5134.594079,United Kingdom,,,1.355051344,,,,2.62E+12,1.45,,0.899,,United States,,,,,Substitution-Dilution
+Row5,EMA,Alcoholic,,2008,Spirits,Easy,High,Easy,51442,2309.358112,India,,,-0.217516874,,,,1.19E+12,3.89,,0.564,,United States,,,,,Substitution-Dilution
+Row6,EMA,Alcoholic,,2011,Spirits,Easy,High,Easy,2104944,5134.594079,United Kingdom,,,1.355051344,,,,2.62E+12,1.45,,0.899,,United States,,,,,Substitution-Dilution
+Row7,EMA,Alcoholic,,2011,Spirits,Easy,High,Easy,68646,2512.25126,India,,,-0.309421419,,,,1.82E+12,6.64,,0.591,,United States,,,,,Substitution-Dilution
+Row8,EMA,Alcoholic,,2015,Spirits,Easy,High,Easy,99703,2184.879091,India,38,48.9,-0.20349766,6,,70,2.10E+12,8.15,,0.627,,United States,76,85.8,,,Smuggling-Mislabelling-Origin Masking
+Row9,EMA,Alcoholic,,2011,Spirits,Easy,High,Easy,71994,754.4378698,Viet Nam,,,-0.542269396,,,,1.36E+11,6.24,,0.664,,United States,,,,,Substitution-Dilution
+Row10,EMA,Alcoholic,,2008,Spirits,Easy,High,Easy,1948355,4314.726526,United Kingdom,,,1.43922468,,,,2.89E+12,-0.47,,0.896,,United States,,,,,Substitution-Dilution
+Row11,EMA,Grain_products,,2009,Rice,Easy,Medium,,773942,692.6875657,China,,,-0.533755614,,,,5.11E+12,9.4,,0.694,,United States,,,,,Substitution-Dilution
+Row12,EMA,Grain_products,,2011,Cereal grains,Easy,,,9773685,553.9960619,India,,,-0.309421419,,,,1.82E+12,6.64,,0.591,,United States,,,,,Substitution-Dilution
+Row13,EMA,Grain_products,,2011,Cereal grains,Easy,,,499901,290.9516084,India,,,-0.309421419,,,,1.82E+12,6.64,,0.591,,United States,,,,,Substitution-Dilution
+Row14,EMA,Grain_products,,2011,Rice,Easy,Medium,,501073,880.8576794,China,,,-0.557473366,,,,7.57E+12,9.54,,0.714,,United States,,,,,Substitution-Dilution
+Row15,EMA,Grain_products,,2014,Cereal products,Easy,,,,,United States,74,86.2,1.231532395,11,3.92,83,1.74E+13,2.57,,0.918,,United States,74,86.2,,,Smuggling-Mislabelling-Origin Masking
+Row16,EMA,Dairy,,2011,Raw milk,Easy,,,31441,1009.382653,China,,,-0.557473366,,,,7.57E+12,9.54,,0.714,,United States,,,,,Artificial enhancement/Improvement
+Row17,EMA,Dairy,,2011,Milk fat,Easy,,,10349,4719.972944,India,,,-0.309421419,,,,1.82E+12,6.64,,0.591,,United States,,,,,Substitution-Dilution
+Row18,EMA,Dairy,,2008,Raw milk,Easy,,,5859,1845.195426,Brazil,,,-0.014441347,,,,1.70E+12,5.09,,0.716,,United States,,,,,Substitution-Dilution
+Row19,EMA,Dairy,,2015,Raw milk,Easy,,,5127,778.2328847,India,38,48.9,-0.20349766,6,,70,2.10E+12,8.15,,0.627,,United States,76,85.8,,,Substitution-Dilution
+Row20,EMA,Dairy,,2010,Cheese,Easy,,,272281,8083.700295,Italy,,,0.555369663,,3.64,,2.13E+12,1.69,,0.87,,United States,,,,,Substitution-Dilution
+Row21,EMA,Dairy,,2011,Milk fat,Easy,,,10349,4719.972944,India,,,-0.309421419,,,,1.82E+12,6.64,,0.591,,United States,,,,,Substitution-Dilution
+Row22,EMA,Dairy,,2011,Ice cream,Easy,,,319,2470.219436,India,,,-0.309421419,,,,1.82E+12,6.64,,0.591,,United States,,,,,Substitution-Dilution
+Row23,EMA,Confectionary,,2008,Candy,Easy,,,174575,2881.437777,China,,,-0.522481193,,,,4.60E+12,9.65,,0.685,,United States,,,,,Artificial enhancement/Improvement
+Row24,EMA,Dairy,,2014,Ice cream,Easy,,,68456,2856.871567,United States,74,86.2,1.231532395,11,3.92,83,1.74E+13,2.57,,0.918,,United States,74,86.2,,,Smuggling-Mislabelling-Origin Masking
+Row25,EMA,Dairy,,2011,Milk fat,Easy,,,10349,4719.972944,India,,,-0.309421419,,,,1.82E+12,6.64,,0.591,,United States,,,,,Substitution-Dilution
+Row26,EMA,Dairy,,2011,Raw milk,Easy,,,9469,571.4436583,India,,,-0.309421419,,,,1.82E+12,6.64,,0.591,,United States,,,,,Substitution-Dilution
+Row27,EMA,Dairy,,2014,Raw milk,Easy,,,17698,581.9301616,India,38,47.9,-0.288215595,6,3.08,69,2.04E+12,7.41,,0.618,,United States,74,86.2,,,Substitution-Dilution
+Row28,EMA,Dairy,,2015,Raw milk,Easy,,,5127,778.2328847,India,38,48.9,-0.20349766,6,,70,2.10E+12,8.15,,0.627,,United States,76,85.8,,,Substitution-Dilution
+Row29,EMA,Dairy,,2015,Raw milk,Easy,,,5127,778.2328847,India,38,48.9,-0.20349766,6,,70,2.10E+12,8.15,,0.627,,United States,76,85.8,,,Substitution-Dilution
+Row30,EMA,Dairy,,2015,Raw milk,Easy,,,5127,778.2328847,India,38,48.9,-0.20349766,6,,70,2.10E+12,8.15,,0.627,,United States,76,85.8,,,Substitution-Dilution
+Row31,EMA,Dairy,,2015,Raw milk,Easy,,,15426,735.7707766,Uganda,25,44.1,-0.59345075,6,,,2.71E+10,5.19,,0.505,,United States,76,85.8,,,Substitution-Dilution
+Row32,EMA,Dairy,,2015,Infant formula,Easy,,,34429,8803.857213,United States,76,85.8,1.250130922,11,,84,1.81E+13,2.86,,0.92,,United States,76,85.8,,,Smuggling-Mislabelling-Origin Masking
+Row33,EMA,Dairy,,2016,Raw milk,Easy,,,4670,722.9122056,India,40,49.4,-0.186531864,6,3.42,70,2.27E+12,7.11,43.17,0.636,33.61,United States,74,86.6,,,Substitution-Dilution
+Row34,EMA,Oils_Fats,,2009,Olive oil,Easy,,,,,Taiwan,,,0.860145688,,,,,,,,,United States,,,,,Substitution-Dilution
+Row35,EMA,Oils_Fats,,2009,Olive oil,Easy,,,,,Australia,,,1.592885286,,,,9.26E+11,1.92,,0.921,,United States,,,,,Substitution-Dilution
+Row36,EMA,Oils_Fats,,2008,Olive oil,Easy,,,,,Italy,,,0.593475645,,,,2.39E+12,-1.05,,0.868,,United States,,,,,Substitution-Dilution
+Row37,EMA,Oils_Fats,,2010,Olive oil,Easy,,,,,Spain,,,0.872153605,,3.63,,1.43E+12,0.01,,0.865,,United States,,,,,Substitution-Dilution
+Row38,EMA,Oils_Fats,,2010,Olive oil,Easy,,,,,Australia,,,1.595369577,,3.84,,1.14E+12,2.05,,0.923,,United States,,,,,Substitution-Dilution
+Row39,EMA,Oils_Fats,,2009,Other oils,Easy,,,,,China,,,-0.533755614,,,,5.11E+12,9.4,,0.694,,United States,,,,,Substitution-Dilution
+Row40,EMA,Oils_Fats,,2008,Sunflower oil,Easy,,,,,Ukraine,,,-0.439729126,,,,1.80E+11,2.3,,0.733,,United States,,,,,Substitution-Dilution
+Row41,EMA,Oils_Fats,,2011,Olive oil,Easy,,,,,Spain,,,0.917037521,,,,1.49E+12,-1,,0.87,,United States,,,,,Smuggling-Mislabelling-Origin Masking
+Row42,EMA,Oils_Fats,,2015,Olive oil,Easy,,,,,Turkey,42,64.1,-0.272502487,2,,72,8.60E+11,6.09,,0.783,,United States,76,85.8,,,Substitution-Dilution
+Row43,EMA,Oils_Fats,,2016,Olive oil,Easy,,,,,Turkey,41,63.6,-0.457861463,2,3.42,72,8.64E+11,3.18,50.76,0.787,39.03,United States,74,86.6,,,Artificial enhancement/Improvement
+Row44,EMA,Oils_Fats,,2015,Other oils,Easy,,,,,India,38,48.9,-0.20349766,6,,70,2.10E+12,8.15,,0.627,,United States,76,85.8,,,Artificial enhancement/Improvement
+Row45,EMA,Oils_Fats,,2014,Olive oil,Easy,,,,,United States,74,86.2,1.231532395,11,3.92,83,1.74E+13,2.57,,0.918,,United States,74,86.2,,,Substitution-Dilution
+Row46,EMA,Oils_Fats,,2015,Soybean oil,Easy,,,,,India,38,48.9,-0.20349766,6,,70,2.10E+12,8.15,,0.627,,United States,76,85.8,,,Substitution-Dilution
+Row47,EMA,Oils_Fats,,2015,Soybean oil,Easy,,,,,India,38,48.9,-0.20349766,6,,70,2.10E+12,8.15,,0.627,,United States,76,85.8,,,Substitution-Dilution
+Row48,EMA,Oils_Fats,,2015,Olive oil,Easy,,,,,Italy,44,75,0.479811149,2,,73,1.83E+12,0.95,,0.876,,United States,76,85.8,,,Smuggling-Mislabelling-Origin Masking
+Row49,EMA,Oils_Fats,,2015,Olive oil,Easy,,,,,Turkey,42,64.1,-0.272502487,2,,72,8.60E+11,6.09,,0.783,,United States,76,85.8,,,Substitution-Dilution
+Row50,EMA,Oils_Fats,,2015,Other oils,Easy,,,,,India,38,48.9,-0.20349766,6,,70,2.10E+12,8.15,,0.627,,United States,76,85.8,,,Substitution-Dilution
+Row51,EMA,Oils_Fats,,2015,Palm oil,Easy,,,,,Ghana,47,47.6,0.020850074,7,,69,3.73E+10,3.84,,0.585,,United States,76,85.8,,,Artificial enhancement/Improvement
+Row52,EMA,Oils_Fats,,2015,Palm oil,Easy,,,,,Ghana,47,47.6,0.020850074,7,,69,3.73E+10,3.84,,0.585,,United States,76,85.8,,,Artificial enhancement/Improvement
+Row53,EMA,Oils_Fats,,2014,Olive oil,Easy,,,,,France,69,81.5,1.131670063,4,3.85,75,2.85E+12,0.95,,0.894,,United States,74,86.2,,,Substitution-Dilution
+Row54,EMA,Oils_Fats,,2016,Olive oil,Easy,,,,,Israel,64,78.9,0.781254192,6,3.66,81,3.18E+11,4.09,32.58,0.902,52.28,United States,74,86.6,,,Substitution-Dilution
+Row55,EMA,Oils_Fats,,2016,Olive oil,Easy,,,,,Spain,58,77.7,0.862098202,5,3.73,77,1.24E+12,3.27,19.92,0.889,49.19,United States,74,86.6,,,Substitution-Dilution
+Row56,EMA,Oils_Fats,,2016,Mustard oil,Easy,,,,,India,40,49.4,-0.186531864,6,3.42,70,2.27E+12,7.11,43.17,0.636,33.61,United States,74,86.6,,,Substitution-Dilution
+Row57,EMA,Oils_Fats,,2017,Olive oil,Easy,,,,,Italy,50,75.9,,2,,71,1.93E+12,1.5,26.26,0.88,46.96,United States,75,84.6,,87.8,Substitution-Dilution
+Row58,EMA,Fish_Seafood,,2010,Raw fish,Difficult,,,,,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,United States,,,,,Artificial enhancement/Improvement
+Row59,EMA,Fish_Seafood,,2010,Raw fish mixes,Difficult,,,2783,3922.745239,India,,,-0.282143816,,3.12,,1.66E+12,10.26,,0.581,,United States,,,,,Artificial enhancement/Improvement
+Row60,EMA,Fish_Seafood,,2010,Salmon,Difficult,,,,,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,United States,,,,,Smuggling-Mislabelling-Origin Masking
+Row61,EMA,Fish_Seafood,,2015,Crabs and lobsters,Difficult,,,,,United States,76,85.8,1.250130922,11,,84,1.81E+13,2.86,,0.92,,United States,76,85.8,,,Substitution-Dilution
+Row62,EMA,Fish_Seafood,,2009,Raw fish,Difficult,,,,,China,,,-0.533755614,,,,5.11E+12,9.4,,0.694,,United States,,,,,Substitution-Dilution
+Row63,EMA,Fish_Seafood,,2009,Raw fish,Difficult,,,,,China,,,-0.533755614,,,,5.11E+12,9.4,,0.694,,United States,,,,,Smuggling-Mislabelling-Origin Masking
+Row64,EMA,Fish_Seafood,,2008,Raw fish mixes,Difficult,,,,,Viet Nam,,,-0.55578021,,,,9.91E+10,5.66,,0.64,,United States,,,,,Substitution-Dilution
+Row65,EMA,Fish_Seafood,,2015,Other seafoods,Difficult,,,,,Spain,58,76.9,0.793941905,5,,75,1.20E+12,3.43,,0.885,,United States,76,85.8,,,Artificial enhancement/Improvement
+Row66,EMA,Fish_Seafood,,2015,Other seafoods,Difficult,,,,,Pakistan,30,47.4,-1.012771944,2,,54,2.71E+11,4.73,,0.551,,United States,76,85.8,,,Smuggling-Mislabelling-Origin Masking
+Row67,EMA,Fish_Seafood,,2015,Cured fish,Difficult,,,,,Bangladesh,25,36,-0.81771329,5,,62,1.95E+11,6.55,,0.592,,United States,76,85.8,,,Artificial enhancement/Improvement
+Row68,EMA,Fish_Seafood,,2015,Crabs and lobsters,Difficult,,,,,United States,76,85.8,1.250130922,11,,84,1.81E+13,2.86,,0.92,,United States,76,85.8,,,Substitution-Dilution
+Row69,EMA,Fish_Seafood,,2013,Other seafoods,Difficult,,,,,Taiwan,61,,0.974231044,,,,,,,,,United States,73,85.6,,,Smuggling-Mislabelling-Origin Masking
+Row70,EMA,Fish_Seafood,,2014,Crabs and lobsters,Difficult,,,,,Japan,76,75.7,1.376021832,5,3.91,86,4.85E+12,0.37,,0.903,,United States,74,86.2,,,Smuggling-Mislabelling-Origin Masking
+Row71,EMA,Fish_Seafood,,2016,Tuna and swordfish,Difficult,,,,,United States,74,86.6,1.238727917,11,3.99,86,1.86E+13,1.49,22.49,0.922,61.4,United States,74,86.6,,,Smuggling-Mislabelling-Origin Masking
+Row72,EMA,Fruits,,2015,Fruits,Easy,Low,Medium,,,India,38,48.9,-0.20349766,6,,70,2.10E+12,8.15,,0.627,,United States,76,85.8,,,Artificial enhancement/Improvement
+Row73,EMA,Fruits,,2015,Fruits,Easy,Low,Medium,,,China,37,64.3,-0.464049285,4,,70,1.11E+13,6.9,,0.743,,United States,76,85.8,,,Smuggling-Mislabelling-Origin Masking
+Row74,EMA,Herbs_spices,,2011,Curry,Easy,Medium,Difficult,,,India,,,-0.309421419,,,,1.82E+12,6.64,,0.591,,United States,,,,,Artificial enhancement/Improvement
+Row75,EMA,Herbs_spices,,2010,Turmeric,Easy,Medium,Difficult,,,India,,,-0.282143816,,3.12,,1.66E+12,10.26,,0.581,,United States,,,,,Artificial enhancement/Improvement
+Row76,EMA,Herbs_spices,,2011,Turmeric,Easy,Medium,Difficult,,,India,,,-0.309421419,,,,1.82E+12,6.64,,0.591,,United States,,,,,Substitution-Dilution
+Row77,EMA,Herbs_spices,,2008,Chilli powder,Easy,Medium,Difficult,,,India,,,-0.217516874,,,,1.19E+12,3.89,,0.564,,United States,,,,,Substitution-Dilution
+Row78,EMA,Herbs_spices,,2010,Saffron,Easy,Medium,Difficult,,,Iran,,,-1.232320637,,2.57,,4.87E+11,5.8,,0.755,,United States,,,,,Smuggling-Mislabelling-Origin Masking
+Row79,EMA,Herbs_spices,,2015,Cinnamon,Easy,Medium,Difficult,830,3983.13253,India,38,48.9,-0.20349766,6,,70,2.10E+12,8.15,,0.627,,United States,76,85.8,,,Smuggling-Mislabelling-Origin Masking
+Row80,EMA,Herbs_spices,,2015,Turmeric,Easy,Medium,Difficult,,,India,38,48.9,-0.20349766,6,,70,2.10E+12,8.15,,0.627,,United States,76,85.8,,,Artificial enhancement/Improvement
+Row81,EMA,Herbs_spices,,2013,Pepper,Easy,Medium,Difficult,38576,4814.210908,India,36,48.2,-0.335554354,6,,,1.86E+12,6.39,,0.607,,United States,73,85.6,,,Substitution-Dilution
+Row82,EMA,Herbs_spices,,2015,Curry,Easy,Medium,Difficult,,,Taiwan,62,,1.082792381,,,90,,,,,,United States,76,85.8,,,Substitution-Dilution
+Row83,EMA,Vegetables,,2014,Soy and soy products,Easy,,,217530,944.0582908,China,36,63.5,-0.475650474,4,3.53,70,1.05E+13,7.3,,0.738,,United States,74,86.2,,,Artificial enhancement/Improvement
+Row84,EMA,Vegetables,,2015,Beans and peas,Easy,,,,,India,38,48.9,-0.20349766,6,,70,2.10E+12,8.15,,0.627,,United States,76,85.8,,,Substitution-Dilution
+Row85,EMA,Vegetables,,2015,Beans and peas,Easy,,,,,Taiwan,62,,1.082792381,,,90,,,,,,United States,76,85.8,,,Artificial enhancement/Improvement
+Row86,EMA,Prepared_meals,,2017,Various food products,,,,,,Malaysia,47,66.2,,8,,79,3.15E+11,5.9,46.89,0.802,42.72,United States,75,84.6,,87.8,Smuggling-Mislabelling-Origin Masking
+Row87,EMA,Meat,,2009,Raw pig meat,Easy,High,Easy,402453,2251.75859,China,,,-0.533755614,,,,5.11E+12,9.4,,0.694,,United States,,,,,Artificial enhancement/Improvement
+Row88,EMA,Meat,,2010,Raw cow meat,Easy,High,Easy,72084,3997.364186,Mexico,,,-0.174199591,,3.05,,1.06E+12,5.12,,0.743,,United States,,,,,Artificial enhancement/Improvement
+Row89,EMA,Meat,,2011,Lightly processed meat mixes,Easy,High,Easy,3098,6741.446094,South Africa,,,0.273530006,,,,4.17E+11,3.28,,0.657,,United States,,,,,Smuggling-Mislabelling-Origin Masking
+Row90,EMA,Meat,,2010,Raw pig meat,Easy,High,Easy,452191,2297.365494,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,United States,,,,,Smuggling-Mislabelling-Origin Masking
+Row91,EMA,Poultry,,2011,Raw duck meat,Easy,High,Easy,1467693,1800.376509,China,,,-0.557473366,,,,7.57E+12,9.54,,0.714,,United States,,,,,Smuggling-Mislabelling-Origin Masking
+Row92,EMA,Meat,,2011,Lightly processed meat mixes,Easy,High,Easy,3098,6741.446094,South Africa,,,0.273530006,,,,4.17E+11,3.28,,0.657,,United States,,,,,Smuggling-Mislabelling-Origin Masking
+Row93,EMA,Meat,,2008,Raw cow meat,Easy,High,Easy,598811,4503.694822,United States,,,1.32767871,,,,1.47E+13,-0.29,,0.91,,United States,,,,,Smuggling-Mislabelling-Origin Masking
+Row94,EMA,Meat,,2015,Minced pig meat,Easy,High,Easy,926,3392.008639,Russia,29,61.5,-0.759154536,7,,52,1.37E+12,-2.83,,0.813,,United States,76,85.8,,,Smuggling-Mislabelling-Origin Masking
+Row95,EMA,Nuts,,2011,Almonds and almond products,Easy,High,Difficult,3418,5189.877121,United Kingdom,,,1.355051344,,,,2.62E+12,1.45,,0.899,,United States,,,,,Substitution-Dilution
+Row96,EMA,Oils_Fats,,2014,Soybean oil,Easy,,,,,United States,74,86.2,1.231532395,11,3.92,83,1.74E+13,2.57,,0.918,,United States,74,86.2,,,Smuggling-Mislabelling-Origin Masking
+Row97,EMA,Honey,,2011,Honey,Easy,High,Medium,,2099.1,Argentina,,,-0.21089698,,,,5.30E+11,6,,0.819,,United States,,,,,Substitution-Dilution
+Row98,EMA,Honey,,2009,Honey,Easy,High,Medium,,1800.9,China,,,-0.533755614,,,,5.11E+12,9.4,,0.694,,United States,,,,,Smuggling-Mislabelling-Origin Masking
+Row99,EMA,Confectionary,,2009,Sugar and syrup,Easy,,,4839,3842.942757,United States,,,1.224368195,,,,1.44E+13,-2.78,,0.91,,United States,,,,,Substitution-Dilution
+Row100,EMA,Honey,,2015,Honey,Easy,High,Medium,,,India,38,48.9,-0.20349766,6,,70,2.10E+12,8.15,,0.627,,United States,76,85.8,,,Substitution-Dilution
+Row101,EMA,Honey,,2015,Honey,Easy,High,Medium,,,Ireland,75,82.3,1.497588237,7,,78,2.91E+11,25.56,,0.929,,United States,76,85.8,,,Smuggling-Mislabelling-Origin Masking
+Row102,EMA,Confectionary,,2015,Candy,Easy,,,66282,1193.084095,India,38,48.9,-0.20349766,6,,70,2.10E+12,8.15,,0.627,,United States,76,85.8,,,Artificial enhancement/Improvement
+Row103,EMA,Honey,,2014,Honey,Easy,High,Medium,,,China,36,63.5,-0.475650474,4,3.53,70,1.05E+13,7.3,,0.738,,United States,74,86.2,,,Smuggling-Mislabelling-Origin Masking
+Row104,EMA,Grain_products,,2015,Cereal products,Easy,,,463496,3577.504444,Canada,83,81.5,1.658398887,9,,92,1.56E+12,1,,0.92,,United States,76,85.8,,,Smuggling-Mislabelling-Origin Masking
+Row105,EMA,Honey,,2016,Honey,Easy,High,Medium,,,China,40,65.5,-0.419930289,4,3.66,67,1.12E+13,6.7,80.96,0.748,50.57,United States,74,86.6,,,Substitution-Dilution
+Row106,EMA,Honey,,2016,Honey,Easy,High,Medium,,,China,40,65.5,-0.419930289,4,3.66,67,1.12E+13,6.7,80.96,0.748,50.57,United States,74,86.6,,,Smuggling-Mislabelling-Origin Masking
+Row107,EMA,Confectionary,,2017,Candy,Easy,,,,,India,40,48.9,,8,,72,2.60E+12,6.62,42.94,0.64,35.47,United States,75,84.6,,87.8,Artificial enhancement/Improvement
+Row108,EMA,Vegetables,,2011,Beans and peas,Easy,,,,1253.9,China,,,-0.557473366,,,,7.57E+12,9.54,,0.714,,United States,,,,,Artificial enhancement/Improvement
+Row109,EMA,Vegetables,,2010,Beans and peas,Easy,,,,206.8,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,United States,,,,,Artificial enhancement/Improvement
+Row110,EMA,Vegetables,,2010,Vegetables and vegetable products,Easy,,,1365299,1698.556873,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,United States,,,,,Smuggling-Mislabelling-Origin Masking
+Row111,EMA,Vegetables,,2017,Vegetables and vegetable products,Easy,,,,,India,40,48.9,,8,,72,2.60E+12,6.62,42.94,0.64,35.47,United States,75,84.6,,87.8,Substitution-Dilution
+Row112,RASFF,Alcoholic,11,2011,Spirits,Easy,High,Easy,,,unknown origin,,,,,,,,,,0.499,,United Kingdom,,,1.19,,Smuggling-Mislabelling-Origin Masking
+Row113,RASFF,Fish_Seafood,11,2008,Molluscs,Difficult,,,314,2630.573248,South Korea,,,0.702150891,,,,1.00E+12,2.83,,,,Netherlands,,,2.66,,Smuggling-Mislabelling-Origin Masking
+Row114,RASFF,Fish_Seafood,7,2009,Molluscs,Difficult,,,,,Croatia,,,0.395049163,,,,6.27E+10,-7.38,,0.802,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row115,RASFF,Fish_Seafood,11,2013,Molluscs,Difficult,,,,,Peru,38,55,-0.2277055,8,,,2.01E+11,5.85,,0.736,,Sweden,89,80.1,0.22,,Smuggling-Mislabelling-Origin Masking
+Row116,RASFF,Fish_Seafood,1,2015,Molluscs,Difficult,,,,,Vietnam,31,55.9,-0.411593303,7,,69,1.93E+11,6.68,,0.684,,United Kingdom,81,79.3,1.19,,Smuggling-Mislabelling-Origin Masking
+Row117,RASFF,Fish_Seafood,4,2015,Molluscs,Difficult,,,,,Senegal,44,40.8,-0.087674012,6,,,1.36E+10,6.46,,0.492,,Cyprus,61,,0.54,,Smuggling-Mislabelling-Origin Masking
+Row118,RASFF,Fish_Seafood,2,2017,Cephalopods,Difficult,,,,,China,41,63.7,,4,,69,1.22E+13,6.9,77.66,0.752,52.54,Spain,57,78.1,8.24,79,Smuggling-Mislabelling-Origin Masking
+Row119,RASFF,Fish_Seafood,2,2017,Cephalopods,Difficult,,,,,China,41,63.7,,4,,69,1.22E+13,6.9,77.66,0.752,52.54,Spain,57,78.1,8.24,79,Smuggling-Mislabelling-Origin Masking
+Row120,RASFF,Fish_Seafood,2,2017,Cephalopods,Difficult,,,,,China,41,63.7,,4,,69,1.22E+13,6.9,77.66,0.752,52.54,Spain,57,78.1,8.24,79,Smuggling-Mislabelling-Origin Masking
+Row121,RASFF,Fish_Seafood,2,2017,Cephalopods,Difficult,,,,,China,41,63.7,,4,,69,1.22E+13,6.9,77.66,0.752,52.54,Spain,57,78.1,8.24,79,Smuggling-Mislabelling-Origin Masking
+Row122,RASFF,Fish_Seafood,2,2017,Cephalopods,Difficult,,,,,China,41,63.7,,4,,69,1.22E+13,6.9,77.66,0.752,52.54,Spain,57,78.1,8.24,79,Smuggling-Mislabelling-Origin Masking
+Row123,RASFF,Fish_Seafood,2,2017,Cephalopods,Difficult,,,,,China,41,63.7,,4,,69,1.22E+13,6.9,77.66,0.752,52.54,Spain,57,78.1,8.24,79,Smuggling-Mislabelling-Origin Masking
+Row124,RASFF,Fish_Seafood,1,2017,Cephalopods,Difficult,,,,,China,41,63.7,,4,,69,1.22E+13,6.9,77.66,0.752,52.54,Spain,57,78.1,8.24,79,Smuggling-Mislabelling-Origin Masking
+Row125,RASFF,Prepared_meals,8,2011,Prepared meals,,,,,,China,,,-0.557473366,,,,7.57E+12,9.54,,0.714,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row126,RASFF,Grain_products,3,2011,Rice products,Easy,Medium,,,,China,,,-0.557473366,,,,7.57E+12,9.54,,0.714,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row127,RASFF,Prepared_meals,5,2011,Prepared meals,,,,,,China,,,-0.557473366,,,,7.57E+12,9.54,,0.714,,Denmark,,,0.11,,Smuggling-Mislabelling-Origin Masking
+Row128,RASFF,Snacks,5,2013,Snacks,Easy,,,180836,3805.049879,China,40,62.3,-0.55707886,4,,,9.61E+12,7.76,,0.729,,United Kingdom,76,79,1.19,,Smuggling-Mislabelling-Origin Masking
+Row129,RASFF,Prepared_meals,1,2017,Prepared meals,,,,,,Australia,77,83.3,,11,,86,1.32E+12,1.96,16.02,0.939,51.83,Norway,85,81.4,0.25,93.3,Smuggling-Mislabelling-Origin Masking
+Row130,RASFF,Prepared_meals,4,2017,Prepared meals,,,,,,Australia,77,83.3,,11,,86,1.32E+12,1.96,16.02,0.939,51.83,Norway,85,81.4,0.25,93.3,Smuggling-Mislabelling-Origin Masking
+Row131,RASFF,Tea,10,2018,Instant tea,Easy,High,Difficult,,,Myanmar,,,,,2.3,63,,,43.15,,,Norway,,,0.25,,Smuggling-Mislabelling-Origin Masking
+Row132,RASFF,Coffee,10,2018,Instant coffee,Easy,Medium,Medium,,,Myanmar,,,,,2.3,63,,,43.15,,,Norway,,,0.25,,Smuggling-Mislabelling-Origin Masking
+Row133,RASFF,Confectionary,2,2008,Candy,Easy,,,126005,1859.545256,Colombia,,,-0.402996927,,,,2.44E+11,3.55,,0.71,,Lithuania,,,2.09,,Smuggling-Mislabelling-Origin Masking
+Row134,RASFF,Dairy,11,2011,Ice cream,Easy,,,2036,2754.911591,Philippines,,,-0.454597298,,,,2.24E+11,3.66,,0.67,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row135,RASFF,Cocoa and derivatives,6,2018,Chocolate,,,,,,Venezuela,,,,,2.23,35,,,46.03,,,Spain,,,8.24,,Smuggling-Mislabelling-Origin Masking
+Row136,RASFF,Confectionary,10,2018,Candy,Easy,,,,,South Africa,,,,,3.38,67,,,20.39,,,Norway,,,0.25,,Smuggling-Mislabelling-Origin Masking
+Row137,RASFF,Fish_Seafood,10,2010,Shrimps and prawns,Difficult,,,,,Belgium,,,1.325334231,,3.94,,4.84E+11,2.74,,0.903,,France,,,0.74,,Smuggling-Mislabelling-Origin Masking
+Row138,RASFF,Fish_Seafood,8,2010,Crabs and lobsters,Difficult,,,30538,6395.703713,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,Norway,,,0.25,,Smuggling-Mislabelling-Origin Masking
+Row139,RASFF,Fish_Seafood,4,2013,Crabs and lobsters,Difficult,,,,,Morocco,37,53.1,-0.32697543,2,,,1.07E+11,4.54,,0.645,,Spain,59,77.7,8.24,,Smuggling-Mislabelling-Origin Masking
+Row140,RASFF,Fish_Seafood,7,2017,Crabs and lobsters,Difficult,,,,,Morocco,40,52.8,,2,,71,1.09E+11,4.1,42.42,0.667,32.72,Spain,57,78.1,8.24,79,Smuggling-Mislabelling-Origin Masking
+Row141,RASFF,Fish_Seafood,9,2017,Crabs and lobsters,Difficult,,,,,Morocco,40,52.8,,2,,71,1.09E+11,4.1,42.42,0.667,32.72,Spain,57,78.1,8.24,79,Smuggling-Mislabelling-Origin Masking
+Row142,RASFF,Fruits,1,2009,Fruits,Easy,Low,Medium,,,Czech Republic,,,0.913635448,,,,2.06E+11,-4.8,,0.857,,Latvia,,,0.84,,Smuggling-Mislabelling-Origin Masking
+Row143,RASFF,Food_additives_supplements,3,2012,Food supplements and stimulants,Easy,,,,,China,39,62.3,-0.562117982,,3.52,,8.56E+12,7.86,,0.722,,Romania,44,65.2,,,Smuggling-Mislabelling-Origin Masking
+Row144,RASFF,Food_additives_supplements,6,2012,Food supplements and stimulants,Easy,,,,,China,39,62.3,-0.562117982,,3.52,,8.56E+12,7.86,,0.722,,Romania,44,65.2,,,Smuggling-Mislabelling-Origin Masking
+Row145,RASFF,Eggs,11,2008,Eggs,Easy,Medium,Difficult,145624,747.912432,China,,,-0.522481193,,,,4.60E+12,9.65,,0.685,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row146,RASFF,Eggs,1,2009,Egg product,Easy,Medium,Difficult,135314,797.8479684,China,,,-0.533755614,,,,5.11E+12,9.4,,0.694,,Slovenia,,,0.96,,Smuggling-Mislabelling-Origin Masking
+Row147,RASFF,Eggs,11,2010,Eggs,Easy,Medium,Difficult,152850,1244.37684,Poland,,,0.809570998,,3.44,,4.79E+11,3.61,,0.835,,Denmark,,,0.11,,Smuggling-Mislabelling-Origin Masking
+Row148,RASFF,Eggs,6,2010,Eggs,Easy,Medium,Difficult,101962,1295.100135,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,Spain,,,8.24,,Smuggling-Mislabelling-Origin Masking
+Row149,RASFF,Eggs,9,2010,Eggs,Easy,Medium,Difficult,18558,1411.358983,Ukraine,,,-0.534363331,,2.57,,1.36E+11,4.2,,0.733,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row150,RASFF,Eggs,9,2010,Eggs,Easy,Medium,Difficult,18558,1411.358983,Ukraine,,,-0.534363331,,2.57,,1.36E+11,4.2,,0.733,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row151,RASFF,Eggs,9,2010,Eggs,Easy,Medium,Difficult,18558,1411.358983,Ukraine,,,-0.534363331,,2.57,,1.36E+11,4.2,,0.733,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row152,RASFF,Eggs,9,2011,Eggs,Easy,Medium,Difficult,39043,1341.008632,Ukraine,,,-0.583129546,,,,1.63E+11,5.47,,0.738,,Romania,,,,,Smuggling-Mislabelling-Origin Masking
+Row153,RASFF,Eggs,3,2012,Egg powder,Easy,Medium,Difficult,190018,1636.176573,Poland,58,72.6,0.865585665,,3.43,,5.00E+11,1.61,,0.836,,Poland,58,72.6,3.52,,Substitution-Dilution
+Row154,RASFF,Eggs,9,2017,Egg product,Easy,Medium,Difficult,,,Japan,73,79.5,,5,,85,4.87E+12,1.71,29.44,0.909,54.72,Iceland,77,,,79.7,Smuggling-Mislabelling-Origin Masking
+Row155,RASFF,Oils_Fats,7,2008,Olive oil,Easy,,,,,unknown origin,,,,,,,,,,0.477,,Spain,,,8.24,,Substitution-Dilution
+Row156,RASFF,Oils_Fats,7,2008,Olive oil,Easy,,,,,Italy,,,0.593475645,,,,2.39E+12,-1.05,,0.868,,Germany,,,0.92,,Substitution-Dilution
+Row157,RASFF,Oils_Fats,4,2011,Palm oil,Easy,,,,,Guinea,,,-1.15893052,,,,6.51E+09,5.61,,0.418,,France,,,0.74,,Substitution-Dilution
+Row158,RASFF,Oils_Fats,4,2011,Sunflower oil,Easy,,,,,Ukraine,,,-0.583129546,,,,1.63E+11,5.47,,0.738,,Hungary,,,0.37,,Smuggling-Mislabelling-Origin Masking
+Row159,RASFF,Oils_Fats,2,2017,Palm oil,Easy,,,,,Ghana,40,47.9,,7,,71,4.73E+10,8.51,17.95,0.592,,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row160,RASFF,Oils_Fats,6,2018,Animal oils and fats,Easy,,,,,China,,,,,3.61,69,,,78.29,,,Norway,,,0.25,,Smuggling-Mislabelling-Origin Masking
+Row161,RASFF,Fish_Seafood,8,2009,Raw fish,Difficult,,,137,1058.394161,Ecuador,,,-0.844959875,,,,6.25E+10,0.57,,0.712,,Bulgaria,,,1,,Smuggling-Mislabelling-Origin Masking
+Row162,RASFF,Fish_Seafood,3,2010,Caviar and fish roe,Difficult,,,,,United States,,,1.247554814,,3.86,,1.50E+13,2.53,,0.914,,Estonia,,,0.18,,Smuggling-Mislabelling-Origin Masking
+Row163,RASFF,Fish_Seafood,5,2010,Other seafoods,Difficult,,,,,Gambia,,,-0.539599778,,2.49,,9.52E+08,6.53,,0.441,,Netherlands,,,2.66,,Smuggling-Mislabelling-Origin Masking
+Row164,RASFF,Fish_Seafood,9,2010,Raw fish,Difficult,,,,,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,Germany,,,0.92,,Smuggling-Mislabelling-Origin Masking
+Row165,RASFF,Fish_Seafood,1,2010,Raw fish,Difficult,,,,,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,Germany,,,0.92,,Smuggling-Mislabelling-Origin Masking
+Row166,RASFF,Fish_Seafood,6,2010,Tuna and swordfish,Difficult,,,,,Gambia,,,-0.539599778,,2.49,,9.52E+08,6.53,,0.441,,United Kingdom,,,1.19,,Smuggling-Mislabelling-Origin Masking
+Row167,RASFF,Prepared_meals,6,2010,Various food products,,,,,,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,Netherlands,,,2.66,,Smuggling-Mislabelling-Origin Masking
+Row168,RASFF,Fish_Seafood,6,2010,Fish products,Difficult,,,,,Ecuador,,,-0.78039211,,2.77,,6.96E+10,3.53,,0.715,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row169,RASFF,Fish_Seafood,8,2010,Raw fish,Difficult,,,,,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,Germany,,,0.92,,Smuggling-Mislabelling-Origin Masking
+Row170,RASFF,Fish_Seafood,10,2010,Raw fish,Difficult,,,,,Ghana,,,0.100389788,,2.47,,3.22E+10,7.9,,0.554,,Belgium,,,0.73,,Smuggling-Mislabelling-Origin Masking
+Row171,RASFF,Fish_Seafood,10,2010,Raw fish,Difficult,,,1781,800.1122965,Gambia,,,-0.539599778,,2.49,,9.52E+08,6.53,,0.441,,Norway,,,0.25,,Smuggling-Mislabelling-Origin Masking
+Row172,RASFF,Fish_Seafood,8,2011,Raw fish,Difficult,,,144,12152.77778,France,,,1.212251614,,,,2.86E+12,2.08,,0.884,,France,,,0.74,,Smuggling-Mislabelling-Origin Masking
+Row173,RASFF,Fish_Seafood,12,2011,Raw fish,Difficult,,,,,Gambia,,,-0.526720524,,,,8.98E+08,-4.3,,0.44,,Germany,,,0.92,,Substitution-Dilution
+Row174,RASFF,Fish_Seafood,5,2012,Raw fish,Difficult,,,,,Nigeria,27,37.9,-1.127770493,,2.45,,4.61E+11,4.28,,0.512,,Cyprus,66,,0.54,,Smuggling-Mislabelling-Origin Masking
+Row175,RASFF,Fish_Seafood,10,2012,Tuna and swordfish,Difficult,,,74,6324.324324,Japan,74,77.9,1.265675336,,3.93,,6.20E+12,1.5,,0.895,,Norway,85,80.6,0.25,,Smuggling-Mislabelling-Origin Masking
+Row176,RASFF,Fish_Seafood,12,2012,Tuna and swordfish,Difficult,,,,,Morocco,37,53.3,-0.310734963,,3.03,,9.83E+10,3.01,,0.635,,Spain,65,78.3,8.24,,Smuggling-Mislabelling-Origin Masking
+Row177,RASFF,Fish_Seafood,12,2012,Tuna and swordfish,Difficult,,,,,Morocco,37,53.3,-0.310734963,,3.03,,9.83E+10,3.01,,0.635,,Spain,65,78.3,8.24,,Smuggling-Mislabelling-Origin Masking
+Row178,RASFF,Fish_Seafood,1,2013,Raw fish,Difficult,,,,,Faeroe Islands,,,,,,,2.61E+09,,,,,Sweden,89,80.1,0.22,,Smuggling-Mislabelling-Origin Masking
+Row179,RASFF,Fish_Seafood,4,2013,Salmon,Difficult,,,45379,15406.75202,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Poland,60,71.6,3.52,,Smuggling-Mislabelling-Origin Masking
+Row180,RASFF,Fish_Seafood,2,2013,Cephalopods,Difficult,,,,,Morocco,37,53.1,-0.32697543,2,,,1.07E+11,4.54,,0.645,,Spain,59,77.7,8.24,,Smuggling-Mislabelling-Origin Masking
+Row181,RASFF,Fish_Seafood,2,2013,Fish products,Difficult,,,,,Taiwan,61,,0.974231044,,,,,,,,,Norway,86,80.4,0.25,,Smuggling-Mislabelling-Origin Masking
+Row182,RASFF,Fish_Seafood,4,2013,Raw fish,Difficult,,,75,920,Ecuador,35,52.3,-0.56673751,1,,,9.51E+10,4.95,,0.734,,Spain,59,77.7,8.24,,Smuggling-Mislabelling-Origin Masking
+Row183,RASFF,Fish_Seafood,4,2015,Fish products,Difficult,,,,,Poland,63,72.1,0.86420242,7,,81,4.77E+11,3.84,,0.855,,Poland,63,72.1,3.52,,Smuggling-Mislabelling-Origin Masking
+Row184,RASFF,Fish_Seafood,7,2015,Fish products,Difficult,,,,,Italy,44,75,0.479811149,2,,73,1.83E+12,0.95,,0.876,,Italy,44,75,1.11,,Smuggling-Mislabelling-Origin Masking
+Row185,RASFF,Fish_Seafood,6,2015,Shrimps and prawns,Difficult,,,,,Ghana,47,47.6,0.020850074,7,,69,3.73E+10,3.84,,0.585,,United Kingdom,81,79.3,1.19,,Smuggling-Mislabelling-Origin Masking
+Row186,RASFF,Fish_Seafood,11,2015,Raw fish,Difficult,,,2860,2674.125874,Senegal,44,40.8,-0.087674012,6,,,1.36E+10,6.46,,0.492,,Spain,58,76.9,8.24,,Smuggling-Mislabelling-Origin Masking
+Row187,RASFF,Fish_Seafood,11,2015,Raw fish,Difficult,,,373,962.4664879,Senegal,44,40.8,-0.087674012,6,,,1.36E+10,6.46,,0.492,,Spain,58,76.9,8.24,,Smuggling-Mislabelling-Origin Masking
+Row188,RASFF,Fish_Seafood,6,2016,Fish products,Difficult,,,,,Ghana,43,47.8,-0.020715743,7,2.66,68,4.28E+10,3.72,17.95,0.588,26.66,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row189,RASFF,Fish_Seafood,9,2016,Molluscs,Difficult,,,229,5973.799127,Thailand,35,59.5,-0.319611497,3,3.26,76,4.12E+11,3.28,44.53,0.748,36.51,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row190,RASFF,Fish_Seafood,10,2016,Cured fish,Difficult,,,,,Nigeria,28,39.4,-1.041940739,7,2.63,58,4.05E+11,-1.62,35.9,0.53,23.15,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row191,RASFF,Fish_Seafood,12,2016,Cured fish,Difficult,,,,,Ghana,43,47.8,-0.020715743,7,2.66,68,4.28E+10,3.72,17.95,0.588,26.66,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row192,RASFF,Fish_Seafood,9,2017,Shrimps and prawns,Difficult,,,,,Vietnam,35,54,,8,,69,2.24E+11,6.81,73.96,0.694,38.34,Norway,85,81.4,0.25,93.3,Smuggling-Mislabelling-Origin Masking
+Row193,RASFF,Fish_Seafood,2,2017,Tuna and swordfish,Difficult,,,,,China,41,63.7,,4,,69,1.22E+13,6.9,77.66,0.752,52.54,Spain,57,78.1,8.24,79,Smuggling-Mislabelling-Origin Masking
+Row194,RASFF,Fish_Seafood,2,2017,Cephalopods,Difficult,,,,,China,41,63.7,,4,,69,1.22E+13,6.9,77.66,0.752,52.54,Spain,57,78.1,8.24,79,Smuggling-Mislabelling-Origin Masking
+Row195,RASFF,Fish_Seafood,6,2017,Cured fish,Difficult,,,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,Czech Republic,57,75.8,0.2,82.2,Smuggling-Mislabelling-Origin Masking
+Row196,RASFF,Fish_Seafood,4,2017,Cured fish,Difficult,,,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row197,RASFF,Fish_Seafood,9,2017,Cured fish,Difficult,,,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row198,RASFF,Fish_Seafood,2,2018,Cephalopods,Difficult,,,,,China,,,,,3.61,69,,,78.29,,,Portugal,,,3.78,,Smuggling-Mislabelling-Origin Masking
+Row199,RASFF,Vegetables,5,2009,Vegetables and vegetable products,Easy,,,,,Germany,,,1.450799674,,,,3.42E+12,-5.62,,0.917,,Luxembourg,,,,,Smuggling-Mislabelling-Origin Masking
+Row200,RASFF,Vegetables,8,2009,Soy and soy products,Easy,,,357561,673.9829008,China,,,-0.533755614,,,,5.11E+12,9.4,,0.694,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row201,RASFF,Vegetables,8,2009,Soy and soy products,Easy,,,357561,673.9829008,China,,,-0.533755614,,,,5.11E+12,9.4,,0.694,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row202,RASFF,Vegetables,2,2011,Vegetables and vegetable products,Easy,,,,,Sweden,,,1.807589869,,,,5.63E+11,2.66,,0.906,,Denmark,,,0.11,,Smuggling-Mislabelling-Origin Masking
+Row203,RASFF,Vegetables,12,2011,Beans and peas,Easy,,,,939.7,Germany,,,1.44344305,,,,3.76E+12,3.66,,0.926,,Romania,,,,,Smuggling-Mislabelling-Origin Masking
+Row204,RASFF,Vegetables,9,2011,Vegetables and vegetable products,Easy,,,,,Egypt,,,-0.772814373,,,,2.36E+11,1.78,,0.668,,Belgium,,,0.73,,Smuggling-Mislabelling-Origin Masking
+Row205,RASFF,Food_additives_supplements,3,2014,Food supplements and stimulants,Easy,,,,,Bangladesh,25,35.4,-0.789570848,5,2.56,61,1.73E+11,6.06,,0.583,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row206,RASFF,Food_additives_supplements,9,2014,Food supplements and stimulants,Easy,,,,,Bangladesh,25,35.4,-0.789570848,5,2.56,61,1.73E+11,6.06,,0.583,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row207,RASFF,Food_additives_supplements,9,2014,Food supplements and stimulants,Easy,,,,,Bangladesh,25,35.4,-0.789570848,5,2.56,61,1.73E+11,6.06,,0.583,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row208,RASFF,Food_additives_supplements,4,2014,Food supplements and stimulants,Easy,,,,,Bangladesh,25,35.4,-0.789570848,5,2.56,61,1.73E+11,6.06,,0.583,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row209,RASFF,Food_additives_supplements,4,2014,Food supplements and stimulants,Easy,,,,,Bangladesh,25,35.4,-0.789570848,5,2.56,61,1.73E+11,6.06,,0.583,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row210,RASFF,Food_additives_supplements,4,2014,Food supplements and stimulants,Easy,,,,,Bangladesh,25,35.4,-0.789570848,5,2.56,61,1.73E+11,6.06,,0.583,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row211,RASFF,Food_additives_supplements,5,2014,Food supplements and stimulants,Easy,,,,,Bangladesh,25,35.4,-0.789570848,5,2.56,61,1.73E+11,6.06,,0.583,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row212,RASFF,Food_additives_supplements,5,2014,Food supplements and stimulants,Easy,,,,,Bangladesh,25,35.4,-0.789570848,5,2.56,61,1.73E+11,6.06,,0.583,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row213,RASFF,Food_additives_supplements,5,2014,Food supplements and stimulants,Easy,,,,,Bangladesh,25,35.4,-0.789570848,5,2.56,61,1.73E+11,6.06,,0.583,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row214,RASFF,Nuts,6,2014,Melon seeds,Easy,High,Difficult,,,Nigeria,27,39,-1.17389528,6,2.81,58,5.68E+11,6.31,,0.524,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row215,RASFF,Vegetables,6,2014,Beans and peas,Easy,,,,,Nigeria,27,39,-1.17389528,6,2.81,58,5.68E+11,6.31,,0.524,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row216,RASFF,Food_additives_supplements,7,2014,Food supplements and stimulants,Easy,,,,,Bangladesh,25,35.4,-0.789570848,5,2.56,61,1.73E+11,6.06,,0.583,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row217,RASFF,Vegetables,7,2014,Beans and peas,Easy,,,,,Nigeria,27,39,-1.17389528,6,2.81,58,5.68E+11,6.31,,0.524,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row218,RASFF,Vegetables,6,2014,Vegetables and vegetable products,Easy,,,42,738.0952381,Thailand,38,59.5,-0.301932571,3,3.43,76,4.07E+11,0.98,,0.735,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row219,RASFF,Food_additives_supplements,2,2014,Food supplements and stimulants,Easy,,,,,Bangladesh,25,35.4,-0.789570848,5,2.56,61,1.73E+11,6.06,,0.583,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row220,RASFF,Food_additives_supplements,12,2014,Food supplements and stimulants,Easy,,,,,Thailand,38,59.5,-0.301932571,3,3.43,76,4.07E+11,0.98,,0.735,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row221,RASFF,Vegetables,8,2015,Beans and peas,Easy,,,,,Nigeria,26,37.7,-1.025004054,6,,59,4.81E+11,2.65,,0.527,,United Kingdom,81,79.3,1.19,,Smuggling-Mislabelling-Origin Masking
+Row222,RASFF,Vegetables,5,2015,Beans and peas,Easy,,,,,Nigeria,26,37.7,-1.025004054,6,,59,4.81E+11,2.65,,0.527,,United Kingdom,81,79.3,1.19,,Smuggling-Mislabelling-Origin Masking
+Row223,RASFF,Vegetables,6,2015,Beans and peas,Easy,,,,,Nigeria,26,37.7,-1.025004054,6,,59,4.81E+11,2.65,,0.527,,United Kingdom,81,79.3,1.19,,Smuggling-Mislabelling-Origin Masking
+Row224,RASFF,Vegetables,8,2015,Beans and peas,Easy,,,,,Nigeria,26,37.7,-1.025004054,6,,59,4.81E+11,2.65,,0.527,,United Kingdom,81,79.3,1.19,,Smuggling-Mislabelling-Origin Masking
+Row225,RASFF,Vegetables,9,2015,Beans and peas,Easy,,,,,Nigeria,26,37.7,-1.025004054,6,,59,4.81E+11,2.65,,0.527,,United Kingdom,81,79.3,1.19,,Smuggling-Mislabelling-Origin Masking
+Row226,RASFF,Herbs_spices,7,2015,Peppermint,Easy,Medium,Difficult,,,Vietnam,31,55.9,-0.411593303,7,,69,1.93E+11,6.68,,0.684,,United Kingdom,81,79.3,1.19,,Smuggling-Mislabelling-Origin Masking
+Row227,RASFF,Food_additives_supplements,6,2015,Food supplements and stimulants,Easy,,,,,Bangladesh,25,36,-0.81771329,5,,62,1.95E+11,6.55,,0.592,,Sweden,89,80,0.22,,Smuggling-Mislabelling-Origin Masking
+Row228,RASFF,Fruits,6,2015,Figs and fig products,Easy,Low,Medium,67186,3753.460542,Turkey,42,64.1,-0.272502487,2,,72,8.60E+11,6.09,,0.783,,Netherlands,84,82.2,2.66,,Smuggling-Mislabelling-Origin Masking
+Row229,RASFF,Vegetables,5,2016,Beans and peas,Easy,,,,,Nigeria,28,39.4,-1.041940739,7,2.63,58,4.05E+11,-1.62,35.9,0.53,23.15,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row230,RASFF,Vegetables,9,2016,Beans and peas,Easy,,,,,Nigeria,28,39.4,-1.041940739,7,2.63,58,4.05E+11,-1.62,35.9,0.53,23.15,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row231,RASFF,Herbs_spices,9,2016,Coriander,Easy,Medium,Difficult,,,Vietnam,33,57.1,-0.338407662,7,2.98,70,2.05E+11,6.21,74.27,0.689,35.37,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row232,RASFF,Vegetables,9,2016,Beans and peas,Easy,,,,,Nigeria,28,39.4,-1.041940739,7,2.63,58,4.05E+11,-1.62,35.9,0.53,23.15,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row233,RASFF,Vegetables,9,2016,Beans and peas,Easy,,,,,Nigeria,28,39.4,-1.041940739,7,2.63,58,4.05E+11,-1.62,35.9,0.53,23.15,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row234,RASFF,Nuts,9,2016,Melon seeds,Easy,High,Difficult,,,Nigeria,28,39.4,-1.041940739,7,2.63,58,4.05E+11,-1.62,35.9,0.53,23.15,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row235,RASFF,Nuts,10,2016,Melon seeds,Easy,High,Difficult,,,Nigeria,28,39.4,-1.041940739,7,2.63,58,4.05E+11,-1.62,35.9,0.53,23.15,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row236,RASFF,Vegetables,10,2016,Beans and peas,Easy,,,,,Nigeria,28,39.4,-1.041940739,7,2.63,58,4.05E+11,-1.62,35.9,0.53,23.15,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row237,RASFF,Food_additives_supplements,12,2016,Food supplements and stimulants,Easy,,,,,Bangladesh,26,36.8,-0.779563576,5,2.66,64,2.21E+11,7.11,45.94,0.597,22.86,Greece,44,71.5,2.83,,Smuggling-Mislabelling-Origin Masking
+Row238,RASFF,Vegetables,11,2017,Vegetables and vegetable products,Easy,,,,,Uganda,26,43.3,,6,,,2.59E+10,3.96,35.94,0.516,26.97,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row239,RASFF,Vegetables,1,2017,Beans and peas,Easy,,,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row240,RASFF,Prepared_meals,3,2017,Prepared meals,,,,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row241,RASFF,Vegetables,4,2017,Beans and peas,Easy,,,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row242,RASFF,Vegetables,5,2017,Beans and peas,Easy,,,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row243,RASFF,Vegetables,4,2017,Beans and peas,Easy,,,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row244,RASFF,Vegetables,6,2017,Beans and peas,Easy,,,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row245,RASFF,Vegetables,6,2017,Beans and peas,Easy,,,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row246,RASFF,Vegetables,6,2017,Beans and peas,Easy,,,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row247,RASFF,Fruits,7,2017,Raisins,Easy,Low,Medium,,,Iran,30,,,2,,57,4.40E+11,4.3,65.12,0.798,32.09,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row248,RASFF,Vegetables,11,2017,Beans and peas,Easy,,,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row249,RASFF,Vegetables,9,2017,Beans and peas,Easy,,,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row250,RASFF,Vegetables,9,2017,Beans and peas,Easy,,,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row251,RASFF,Vegetables,2,2017,Beans and peas,Easy,,,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row252,RASFF,Vegetables,10,2017,Beans and peas,Easy,,,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row253,RASFF,Nuts,11,2017,Melon seeds,Easy,High,Difficult,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row254,RASFF,Herbs_spices,4,2010,Pepper,Easy,Medium,Difficult,25847,3045.459821,India,,,-0.282143816,,3.12,,1.66E+12,10.26,,0.581,,Poland,,,3.52,,Substitution-Dilution
+Row255,RASFF,Herbs_spices,11,2010,Curry,Easy,Medium,Difficult,,,India,,,-0.282143816,,3.12,,1.66E+12,10.26,,0.581,,United Kingdom,,,1.19,,Smuggling-Mislabelling-Origin Masking
+Row256,RASFF,Food_additives_supplements,11,2012,Food supplements and stimulants,Easy,,,,,Brazil,43,67.8,0.063811636,,3.13,,2.47E+12,1.93,,0.736,,Italy,42,75.3,1.11,,Smuggling-Mislabelling-Origin Masking
+Row257,RASFF,Herbs_spices,6,2015,Peppermint,Easy,Medium,Difficult,,,Vietnam,31,55.9,-0.411593303,7,,69,1.93E+11,6.68,,0.684,,United Kingdom,81,79.3,1.19,,Smuggling-Mislabelling-Origin Masking
+Row258,RASFF,Herbs_spices,8,2016,Peppermint,Easy,Medium,Difficult,,,Vietnam,33,57.1,-0.338407662,7,2.98,70,2.05E+11,6.21,74.27,0.689,35.37,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row259,RASFF,Honey,4,2010,Honey,Easy,High,Medium,,4601.7,Croatia,,,0.423793597,,2.77,,5.98E+10,-1.42,,0.808,,Slovenia,,,0.96,,Smuggling-Mislabelling-Origin Masking
+Row260,RASFF,Honey,10,2011,Honey,Easy,High,Medium,,2027.9,China,,,-0.557473366,,,,7.57E+12,9.54,,0.714,,Italy,,,1.11,,Substitution-Dilution
+Row261,RASFF,Confectionary,6,2018,Sugar and syrup,Easy,,,,,China,,,,,3.61,69,,,78.29,,,Estonia,,,0.18,,Substitution-Dilution
+Row262,RASFF,Meat,3,2008,Lightly processed meat mixes,Easy,High,Easy,84733,4729.644885,Netherlands,,,1.616489808,,,,9.36E+11,1.7,,0.906,,Netherlands,,,2.66,,Substitution-Dilution
+Row263,RASFF,Meat,11,2008,Lightly processed pig meat,Easy,High,Easy,466664,2133.250047,China,,,-0.522481193,,,,4.60E+12,9.65,,0.685,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row264,RASFF,Meat,10,2008,Offals,Easy,High,Easy,25,4960,Lebanon,,,-0.741605535,,,,2.92E+10,10.47,,0.75,,Germany,,,0.92,,Smuggling-Mislabelling-Origin Masking
+Row265,RASFF,Meat,11,2008,Offals,Easy,High,Easy,25,4960,Lebanon,,,-0.741605535,,,,2.92E+10,10.47,,0.75,,Germany,,,0.92,,Smuggling-Mislabelling-Origin Masking
+Row266,RASFF,Meat,7,2009,Lightly processed meat mixes,Easy,High,Easy,22,2590.909091,Philippines,,,-0.537821312,,,,1.68E+11,1.15,,0.659,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row267,RASFF,Meat,6,2009,Raw cow meat,Easy,High,Easy,18919,3144.986521,Ukraine,,,-0.57420011,,,,1.17E+11,-14.8,,0.727,,Poland,,,3.52,,Smuggling-Mislabelling-Origin Masking
+Row268,RASFF,Meat,2,2009,Raw cow meat,Easy,High,Easy,258713,3681.249106,Uruguay,,,0.803975031,,,,3.17E+10,4.24,,0.778,,Norway,,,0.25,,Smuggling-Mislabelling-Origin Masking
+Row269,RASFF,Meat,11,2009,Offals,Easy,High,Easy,27,1148.148148,Iran,,,-1.205532074,,,,4.14E+11,1.01,,0.747,,Germany,,,0.92,,Smuggling-Mislabelling-Origin Masking
+Row270,RASFF,Meat,1,2010,Offals,Easy,High,Easy,442,2624.434389,Pakistan,,,-1.110560318,,2.53,,1.77E+11,1.61,,0.526,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row271,RASFF,Meat,6,2010,Minced pig meat,Easy,High,Easy,452191,2297.365494,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,Spain,,,8.24,,Smuggling-Mislabelling-Origin Masking
+Row272,RASFF,Meat,8,2010,Raw pig meat,Easy,High,Easy,641167,2197.003277,Brazil,,,0.132048061,,3.2,,2.21E+12,7.54,,0.727,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row273,RASFF,Meat,8,2010,Minced cow meat,Easy,High,Easy,386712,3279.404311,Brazil,,,0.132048061,,3.2,,2.21E+12,7.54,,0.727,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row274,RASFF,Meat,9,2012,Raw pig meat,Easy,High,Easy,552346,2826.215814,Poland,58,72.6,0.865585665,,3.43,,5.00E+11,1.61,,0.836,,Sweden,88,80.7,0.22,,Substitution-Dilution
+Row275,RASFF,Meat,12,2012,Lightly processed pig meat,Easy,High,Easy,10005,4827.286357,Vietnam,31,53,-0.528478021,,3,,1.56E+11,5.25,,0.67,,Finland,90,79.6,0.63,,Smuggling-Mislabelling-Origin Masking
+Row276,RASFF,Meat,8,2013,Lightly processed cow meat,Easy,High,Easy,146652,3950.099555,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Ireland,72,81.4,0.07,,Substitution-Dilution
+Row277,RASFF,Meat,2,2013,Minced cow meat,Easy,High,Easy,146652,3950.099555,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Ireland,72,81.4,0.07,,Substitution-Dilution
+Row278,RASFF,Meat,2,2013,Raw cow meat,Easy,High,Easy,281240,4332.175366,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Germany,78,80.9,0.92,,Substitution-Dilution
+Row279,RASFF,Meat,2,2013,Minced meat mixes,Easy,High,Easy,784,15442.60204,Finland,89,79.4,1.853915592,7,,,2.70E+11,-0.76,,0.912,,Czech Republic,48,74,0.2,,Substitution-Dilution
+Row280,RASFF,Meat,2,2013,Minced cow meat,Easy,High,Easy,146652,3950.099555,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Czech Republic,48,74,0.2,,Substitution-Dilution
+Row281,RASFF,Meat,2,2013,Minced cow meat,Easy,High,Easy,146652,3950.099555,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Germany,78,80.9,0.92,,Substitution-Dilution
+Row282,RASFF,Meat,1,2013,Minced meat mixes,Easy,High,Easy,16717,4123.526949,Ireland,72,81.4,1.425223271,7,,,2.39E+11,1.64,,0.911,,Sweden,89,80.1,0.22,,Substitution-Dilution
+Row283,RASFF,Meat,5,2013,Lightly processed cow meat,Easy,High,Easy,3439,3726.664728,Latvia,53,,0.732202798,9,,,3.03E+10,2.43,,0.833,,Lithuania,57,,2.09,,Substitution-Dilution
+Row284,RASFF,Meat,5,2013,Lightly processed cow meat,Easy,High,Easy,3439,3726.664728,Latvia,53,,0.732202798,9,,,3.03E+10,2.43,,0.833,,Lithuania,57,,2.09,,Substitution-Dilution
+Row285,RASFF,Meat,7,2013,Lightly processed cow meat,Easy,High,Easy,146652,3950.099555,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Germany,78,80.9,0.92,,Substitution-Dilution
+Row286,RASFF,Meat,7,2013,Raw cow meat,Easy,High,Easy,128642,5021.2761,Spain,59,77.7,0.83634391,5,,,1.36E+12,-1.71,,0.875,,Germany,78,80.9,0.92,,Substitution-Dilution
+Row287,RASFF,Meat,8,2013,Minced cow meat,Easy,High,Easy,38346,3501.173525,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Italy,43,74.7,1.11,,Substitution-Dilution
+Row288,RASFF,Meat,8,2013,Minced meat mixes,Easy,High,Easy,14299,7182.949857,Germany,78,80.9,1.482173642,6,,,3.75E+12,0.49,,0.928,,Austria,69,79.2,0.21,,Substitution-Dilution
+Row289,RASFF,Meat,8,2013,Raw cow meat,Easy,High,Easy,281240,4332.175366,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Germany,78,80.9,0.92,,Substitution-Dilution
+Row290,RASFF,Meat,8,2013,Lightly processed cow meat,Easy,High,Easy,196267,4788.843769,Netherlands,83,82.4,1.691046596,2,,,8.67E+11,-0.19,,0.923,,Belgium,75,77.6,0.73,,Substitution-Dilution
+Row291,RASFF,Meat,3,2013,Raw cow meat,Easy,High,Easy,281240,4332.175366,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Netherlands,83,82.4,2.66,,Substitution-Dilution
+Row292,RASFF,Prepared_meals,3,2013,Prepared meals,,,,,,Germany,78,80.9,1.482173642,6,,,3.75E+12,0.49,,0.928,,France,71,83,0.74,,Substitution-Dilution
+Row293,RASFF,Meat,3,2013,Minced cow meat,Easy,High,Easy,96449,5949.424048,France,71,83,1.177209606,4,,,2.81E+12,0.58,,0.889,,France,71,83,0.74,,Substitution-Dilution
+Row294,RASFF,Meat,3,2013,Raw pig meat,Easy,High,Easy,168647,3252.100541,Hungary,54,71.6,0.666547885,6,,,1.35E+11,2.1,,0.835,,Poland,60,71.6,3.52,,Substitution-Dilution
+Row295,RASFF,Meat,3,2013,Minced pig meat,Easy,High,Easy,28150,4152.042629,Sweden,89,80.1,1.810821096,6,,,5.79E+11,1.24,,0.912,,Netherlands,83,82.4,2.66,,Substitution-Dilution
+Row296,RASFF,Meat,3,2013,Minced meat mixes,Easy,High,Easy,6706,3032.359081,Bulgaria,41,60.3,0.139088919,9,,,5.58E+10,0.86,,0.792,,Bulgaria,41,60.3,1,,Substitution-Dilution
+Row297,RASFF,Meat,3,2013,Minced cow meat,Easy,High,Easy,96449,5949.424048,France,71,83,1.177209606,4,,,2.81E+12,0.58,,0.889,,United Kingdom,76,79,1.19,,Substitution-Dilution
+Row298,RASFF,Meat,3,2013,Minced pig meat,Easy,High,Easy,31604,3717.44083,Romania,43,65.2,,9,,,1.92E+11,3.53,,0.8,,Greece,40,71.5,2.83,,Substitution-Dilution
+Row299,RASFF,Meat,3,2013,Raw cow meat,Easy,High,Easy,4242,5073.78595,Romania,43,65.2,,9,,,1.92E+11,3.53,,0.8,,Greece,40,71.5,2.83,,Substitution-Dilution
+Row300,RASFF,Meat,3,2013,Minced pig meat,Easy,High,Easy,31604,3717.44083,Romania,43,65.2,,9,,,1.92E+11,3.53,,0.8,,Greece,40,71.5,2.83,,Substitution-Dilution
+Row301,RASFF,Meat,3,2013,Raw cow meat,Easy,High,Easy,14544,3670.654565,Hungary,54,71.6,0.666547885,6,,,1.35E+11,2.1,,0.835,,United Kingdom,76,79,1.19,,Substitution-Dilution
+Row302,RASFF,Meat,3,2013,Minced cow meat,Easy,High,Easy,96449,5949.424048,France,71,83,1.177209606,4,,,2.81E+12,0.58,,0.889,,Italy,43,74.7,1.11,,Substitution-Dilution
+Row303,RASFF,Meat,3,2013,Lightly processed cow meat,Easy,High,Easy,146652,3950.099555,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Sweden,89,80.1,0.22,,Substitution-Dilution
+Row304,RASFF,Meat,3,2013,Lightly processed cow meat,Easy,High,Easy,3439,3726.664728,Latvia,53,,0.732202798,9,,,3.03E+10,2.43,,0.833,,Estonia,68,,0.18,,Substitution-Dilution
+Row305,RASFF,Meat,3,2013,Lightly processed meat mixes,Easy,High,Easy,1699,3846.968805,Bulgaria,41,60.3,0.139088919,9,,,5.58E+10,0.86,,0.792,,Bulgaria,41,60.3,1,,Substitution-Dilution
+Row306,RASFF,Meat,3,2013,Lightly processed cow meat,Easy,High,Easy,300653,5445.620034,Germany,78,80.9,1.482173642,6,,,3.75E+12,0.49,,0.928,,Greece,40,71.5,2.83,,Substitution-Dilution
+Row307,RASFF,Meat,3,2013,Minced pig meat,Easy,High,Easy,12826,3195.774209,Latvia,53,,0.732202798,9,,,3.03E+10,2.43,,0.833,,Greece,40,71.5,2.83,,Substitution-Dilution
+Row308,RASFF,Meat,4,2013,Raw cow meat,Easy,High,Easy,281240,4332.175366,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Ireland,72,81.4,0.07,,Substitution-Dilution
+Row309,RASFF,Meat,4,2013,Minced pig meat,Easy,High,Easy,6706,3032.359081,Bulgaria,41,60.3,0.139088919,9,,,5.58E+10,0.86,,0.792,,Bulgaria,41,60.3,1,,Substitution-Dilution
+Row310,RASFF,Meat,4,2013,Minced meat mixes,Easy,High,Easy,39437,3549.179704,France,71,83,1.177209606,4,,,2.81E+12,0.58,,0.889,,Greece,40,71.5,2.83,,Substitution-Dilution
+Row311,RASFF,Meat,4,2013,Raw cow meat,Easy,High,Easy,281240,4332.175366,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Ireland,72,81.4,0.07,,Substitution-Dilution
+Row312,RASFF,Meat,5,2013,Minced pig meat,Easy,High,Easy,627879,2876.925331,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Netherlands,83,82.4,2.66,,Substitution-Dilution
+Row313,RASFF,Meat,5,2013,Lightly processed cow meat,Easy,High,Easy,64428,4615.167319,United Kingdom,76,79,1.414247041,7,,,2.74E+12,2.05,,0.915,,Czech Republic,48,74,0.2,,Substitution-Dilution
+Row314,RASFF,Meat,5,2013,Raw cow meat,Easy,High,Easy,281240,4332.175366,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Greece,40,71.5,2.83,,Substitution-Dilution
+Row315,RASFF,Meat,9,2013,Minced cow meat,Easy,High,Easy,62186,5352.121056,Italy,43,74.7,0.524575106,2,,,2.13E+12,-1.73,,0.876,,Greece,40,71.5,2.83,,Substitution-Dilution
+Row316,RASFF,Meat,9,2013,Lightly processed cow meat,Easy,High,Easy,62186,5352.121056,Italy,43,74.7,0.524575106,2,,,2.13E+12,-1.73,,0.876,,Greece,40,71.5,2.83,,Substitution-Dilution
+Row317,RASFF,Meat,9,2013,Raw cow meat,Easy,High,Easy,128642,5021.2761,Spain,59,77.7,0.83634391,5,,,1.36E+12,-1.71,,0.875,,France,71,83,0.74,,Substitution-Dilution
+Row318,RASFF,Meat,10,2013,Minced pig meat,Easy,High,Easy,24944,2744.587877,Estonia,68,,1.11243702,7,,,2.51E+10,1.94,,0.862,,Latvia,53,,0.84,,Substitution-Dilution
+Row319,RASFF,Meat,11,2013,Minced pig meat,Easy,High,Easy,28404,4059.850725,Lithuania,57,,0.85875307,6,,,4.64E+10,3.5,,0.836,,Latvia,53,,0.84,,Substitution-Dilution
+Row320,RASFF,Meat,4,2013,Minced meat mixes,Easy,High,Easy,38346,3501.173525,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Germany,78,80.9,0.92,,Substitution-Dilution
+Row321,RASFF,Meat,4,2013,Minced cow meat,Easy,High,Easy,62186,5352.121056,Italy,43,74.7,0.524575106,2,,,2.13E+12,-1.73,,0.876,,Greece,40,71.5,2.83,,Substitution-Dilution
+Row322,RASFF,Meat,4,2013,Lightly processed cow meat,Easy,High,Easy,146652,3950.099555,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Latvia,53,,0.84,,Substitution-Dilution
+Row323,RASFF,Meat,4,2013,Minced cow meat,Easy,High,Easy,62186,5352.121056,Italy,43,74.7,0.524575106,2,,,2.13E+12,-1.73,,0.876,,Greece,40,71.5,2.83,,Substitution-Dilution
+Row324,RASFF,Meat,4,2013,Minced meat mixes,Easy,High,Easy,4666,2951.993142,Romania,43,65.2,,9,,,1.92E+11,3.53,,0.8,,Greece,40,71.5,2.83,,Substitution-Dilution
+Row325,RASFF,Meat,4,2013,Minced pig meat,Easy,High,Easy,3,3000,Malta,56,,1.178706427,2,,,1.01E+10,4.61,,0.856,,Malta,56,,1.87,,Substitution-Dilution
+Row326,RASFF,Meat,3,2013,Minced cow meat,Easy,High,Easy,7189,3997.774378,Portugal,62,78.4,0.976643552,2,,,2.26E+11,-1.13,,0.837,,Portugal,62,78.4,3.78,,Substitution-Dilution
+Row327,RASFF,Meat,7,2013,Raw pig meat,Easy,High,Easy,2212641,3225.887073,Germany,78,80.9,1.482173642,6,,,3.75E+12,0.49,,0.928,,Germany,78,80.9,0.92,,Substitution-Dilution
+Row328,RASFF,Meat,5,2013,Minced cow meat,Easy,High,Easy,146652,3950.099555,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Poland,60,71.6,3.52,,Substitution-Dilution
+Row329,RASFF,Meat,5,2013,Lightly processed cow meat,Easy,High,Easy,,,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Poland,60,71.6,3.52,,Substitution-Dilution
+Row330,RASFF,Meat,5,2013,Minced meat mixes,Easy,High,Easy,38346,3501.173525,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Poland,60,71.6,3.52,,Substitution-Dilution
+Row331,RASFF,Meat,5,2013,Minced meat mixes,Easy,High,Easy,38346,3501.173525,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Poland,60,71.6,3.52,,Substitution-Dilution
+Row332,RASFF,Meat,3,2013,Lightly processed pig meat,Easy,High,Easy,612380,2292.374016,Brazil,42,67.7,-0.004246733,2,,,2.47E+12,3.01,,0.748,,Poland,60,71.6,3.52,,Smuggling-Mislabelling-Origin Masking
+Row333,RASFF,Meat,11,2013,Raw cow meat,Easy,High,Easy,236833,5491.945801,Uruguay,73,65.3,0.803240642,4,,,5.75E+10,4.64,,0.797,,Norway,86,80.4,0.25,,Smuggling-Mislabelling-Origin Masking
+Row334,RASFF,Meat,3,2014,Offals,Easy,High,Easy,202620,2599.842069,Brazil,43,67.6,-0.034037918,2,2.94,71,2.46E+12,0.51,,0.752,,Cyprus,63,,0.54,,Smuggling-Mislabelling-Origin Masking
+Row335,RASFF,Meat,11,2016,Minced cow meat,Easy,High,Easy,527,1064.516129,Iran,29,,-0.832209547,2,2.6,57,4.19E+11,13.4,66.52,0.796,30.52,Italy,47,75.9,1.11,,Smuggling-Mislabelling-Origin Masking
+Row336,RASFF,Meat,7,2018,Raw sheep meat,Easy,High,Easy,,,Australia,,,,,3.75,87,,,15.46,,,Norway,,,0.25,,Smuggling-Mislabelling-Origin Masking
+Row337,RASFF,Dairy,9,2008,Milk product,Easy,,,,,China,,,-0.522481193,,,,4.60E+12,9.65,,0.685,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row338,RASFF,Dairy,10,2008,Milk product,Easy,,,,,China,,,-0.522481193,,,,4.60E+12,9.65,,0.685,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row339,RASFF,Dairy,3,2008,Cheese,Easy,,,36511,2178.987155,Egypt,,,-0.529910577,,,,1.63E+11,7.16,,0.658,,Cyprus,,,0.54,,Smuggling-Mislabelling-Origin Masking
+Row340,RASFF,Dairy,4,2009,Milk product,Easy,,,112746,1952.778813,Belarus,,,-0.82795005,,,,4.92E+10,0.2,,0.784,,Romania,,,,,Smuggling-Mislabelling-Origin Masking
+Row341,RASFF,Dairy,6,2010,Milk product,Easy,,,,,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,Spain,,,8.24,,Smuggling-Mislabelling-Origin Masking
+Row342,RASFF,Dairy,6,2010,Milk fat,Easy,,,,,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row343,RASFF,Dairy,9,2010,Raw milk,Easy,,,24,1958.333333,Jordan,,,-0.091317665,,2.74,,2.64E+10,2.31,,0.728,,Cyprus,,,0.54,,Smuggling-Mislabelling-Origin Masking
+Row344,RASFF,Dairy,10,2011,Milk product,Easy,,,98866,3367.53788,Poland,,,0.828642239,,,,5.29E+11,5.02,,0.839,,Hungary,,,0.37,,Substitution-Dilution
+Row345,RASFF,Dairy,5,2011,Milk product,Easy,,,49031,1846.72962,Saudi Arabia,,,-0.483386769,,,,6.71E+11,10,,0.823,,Sweden,,,0.22,,Smuggling-Mislabelling-Origin Masking
+Row346,RASFF,Dairy,7,2011,Milk product,Easy,,,,,Taiwan,,,0.992990384,,,,,,,,,Germany,,,0.92,,Smuggling-Mislabelling-Origin Masking
+Row347,RASFF,Dairy,7,2012,Milk product,Easy,,,,,Philippines,34,49.8,-0.376144062,,3.02,,2.50E+11,6.68,,0.677,,United Kingdom,74,78.8,1.19,,Smuggling-Mislabelling-Origin Masking
+Row348,RASFF,Dairy,4,2013,Milk product,Easy,,,32954,1056.654731,China,40,62.3,-0.55707886,4,,,9.61E+12,7.76,,0.729,,Italy,43,74.7,1.11,,Smuggling-Mislabelling-Origin Masking
+Row349,RASFF,Dairy,8,2013,Milk product,Easy,,,32954,1056.654731,China,40,62.3,-0.55707886,4,,,9.61E+12,7.76,,0.729,,Italy,43,74.7,1.11,,Smuggling-Mislabelling-Origin Masking
+Row350,RASFF,Soups_sauce,5,2015,Soups and sauces,Easy,,,,,Iran,27,,-0.91461052,2,,52,3.86E+11,-1.32,,0.789,,Italy,44,75,1.11,,Smuggling-Mislabelling-Origin Masking
+Row351,RASFF,Soups_sauce,11,2016,Soups and sauces,Easy,,,,,Iran,29,,-0.832209547,2,2.6,57,4.19E+11,13.4,66.52,0.796,30.52,Italy,47,75.9,1.11,,Smuggling-Mislabelling-Origin Masking
+Row352,RASFF,Vegetables,8,2018,Soy and soy products,Easy,,,,,China,,,,,3.61,69,,,78.29,,,United Kingdom,,,1.19,,Substitution-Dilution
+Row353,RASFF,Tea,6,2010,Tea,Easy,High,Difficult,307777,2689.414739,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,Spain,,,8.24,,Smuggling-Mislabelling-Origin Masking
+Row354,RASFF,Nuts,6,2008,Peanuts and peanut products,Easy,High,Difficult,212414,1444.175054,China,,,-0.522481193,,,,4.60E+12,9.65,,0.685,,Slovenia,,,0.96,,Smuggling-Mislabelling-Origin Masking
+Row355,RASFF,Nuts,4,2011,Hazelnuts and hazelnut products,Easy,High,Difficult,,3212,Turkey,,,-0.043145894,,,,8.33E+11,11.11,,0.753,,Denmark,,,0.11,,Smuggling-Mislabelling-Origin Masking
+Row356,RASFF,Nuts,1,2011,Peanuts and peanut products,Easy,High,Difficult,150898,1728.889714,China,,,-0.557473366,,,,7.57E+12,9.54,,0.714,,Denmark,,,0.11,,Smuggling-Mislabelling-Origin Masking
+Row357,RASFF,Nuts,5,2014,Peanuts and peanut products,Easy,High,Difficult,54,833.3333333,Ghana,48,45,-0.011692424,7,2.63,70,3.91E+10,3.99,,0.576,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row358,RASFF,Nuts,2,2014,Peanuts and peanut products,Easy,High,Difficult,54,833.3333333,Ghana,48,45,-0.011692424,7,2.63,70,3.91E+10,3.99,,0.576,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row359,RASFF,Nuts,7,2014,Melon seeds,Easy,High,Difficult,,,Nigeria,27,39,-1.17389528,6,2.81,58,5.68E+11,6.31,,0.524,,United Kingdom,78,79.4,1.19,,Smuggling-Mislabelling-Origin Masking
+Row360,RASFF,Nuts,3,2015,Peanuts and peanut products,Easy,High,Difficult,62,500,Ghana,47,47.6,0.020850074,7,,69,3.73E+10,3.84,,0.585,,United Kingdom,81,79.3,1.19,,Smuggling-Mislabelling-Origin Masking
+Row361,RASFF,Nuts,6,2016,Peanuts and peanut products,Easy,High,Difficult,16,3125,Ghana,43,47.8,-0.020715743,7,2.66,68,4.28E+10,3.72,17.95,0.588,26.66,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row362,RASFF,Nuts,6,2016,Peanuts and peanut products,Easy,High,Difficult,16,3125,Ghana,43,47.8,-0.020715743,7,2.66,68,4.28E+10,3.72,17.95,0.588,26.66,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row363,RASFF,Nuts,6,2016,Peanuts and peanut products,Easy,High,Difficult,16,3125,Ghana,43,47.8,-0.020715743,7,2.66,68,4.28E+10,3.72,17.95,0.588,26.66,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row364,RASFF,Nuts,6,2016,Peanuts and peanut products,Easy,High,Difficult,16,3125,Ghana,43,47.8,-0.020715743,7,2.66,68,4.28E+10,3.72,17.95,0.588,26.66,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row365,RASFF,Nuts,6,2016,Melon seeds,Easy,High,Difficult,,,Nigeria,28,39.4,-1.041940739,7,2.63,58,4.05E+11,-1.62,35.9,0.53,23.15,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row366,RASFF,Nuts,9,2016,Nuts,Easy,High,Difficult,,,Turkey,41,63.6,-0.457861463,2,3.42,72,8.64E+11,3.18,50.76,0.787,39.03,Norway,85,81,0.25,,Smuggling-Mislabelling-Origin Masking
+Row367,RASFF,Nuts,10,2016,Melon seeds,Easy,High,Difficult,,,Nigeria,28,39.4,-1.041940739,7,2.63,58,4.05E+11,-1.62,35.9,0.53,23.15,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row368,RASFF,Nuts,11,2016,Melon seeds,Easy,High,Difficult,,,Nigeria,28,39.4,-1.041940739,7,2.63,58,4.05E+11,-1.62,35.9,0.53,23.15,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row369,RASFF,Nuts,12,2016,Peanuts and peanut products,Easy,High,Difficult,16,3125,Ghana,43,47.8,-0.020715743,7,2.66,68,4.28E+10,3.72,17.95,0.588,26.66,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row370,RASFF,Nuts,12,2016,Peanuts and peanut products,Easy,High,Difficult,16,3125,Ghana,43,47.8,-0.020715743,7,2.66,68,4.28E+10,3.72,17.95,0.588,26.66,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row371,RASFF,Fish_Seafood,12,2016,Cured fish,Difficult,,,,,Ghana,43,47.8,-0.020715743,7,2.66,68,4.28E+10,3.72,17.95,0.588,26.66,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row372,RASFF,Nuts,5,2017,Melon seeds,Easy,High,Difficult,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row373,RASFF,Nuts,12,2017,Melon seeds,Easy,High,Difficult,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row374,RASFF,Nuts,8,2017,Pistachios and pistachio products,Easy,High,Difficult,,7444.5,Iran,30,,,2,,57,4.40E+11,4.3,65.12,0.798,32.09,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row375,RASFF,Nuts,2,2017,Melon seeds,Easy,High,Difficult,,,Nigeria,27,38.4,,10,,55,3.76E+11,0.81,39.69,0.532,21.92,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row376,RASFF,Meat,9,2018,Lightly processed meat mixes,Easy,High,Easy,,,Ghana,,,,,2.57,69,,,18.41,,,United Kingdom,,,1.19,,Smuggling-Mislabelling-Origin Masking
+Row377,RASFF,Nuts,7,2018,Melon seeds,Easy,High,Difficult,,,Nigeria,,,,,2.53,58,,,37.41,,,United Kingdom,,,1.19,,Smuggling-Mislabelling-Origin Masking
+Row378,RASFF,Meat,6,2008,Lightly processed meat mixes,Easy,High,Easy,16043,3743.252509,China,,,-0.522481193,,,,4.60E+12,9.65,,0.685,,Slovenia,,,0.96,,Smuggling-Mislabelling-Origin Masking
+Row379,RASFF,Meat,6,2008,Lightly processed meat mixes,Easy,High,Easy,16043,3743.252509,China,,,-0.522481193,,,,4.60E+12,9.65,,0.685,,Slovenia,,,0.96,,Smuggling-Mislabelling-Origin Masking
+Row380,RASFF,Meat,1,2009,Lightly processed meat mixes,Easy,High,Easy,20114,3815.551357,China,,,-0.533755614,,,,5.11E+12,9.4,,0.694,,Slovenia,,,0.96,,Smuggling-Mislabelling-Origin Masking
+Row381,RASFF,Meat,3,2010,Lightly processed meat mixes,Easy,High,Easy,20,3050,Philippines,,,-0.539151463,,3.14,,2.00E+11,7.63,,0.665,,Netherlands,,,2.66,,Smuggling-Mislabelling-Origin Masking
+Row382,RASFF,Meat,10,2010,Lightly processed meat mixes,Easy,High,Easy,20795,4033.084876,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row383,RASFF,Meat,5,2011,Lightly processed meat mixes,Easy,High,Easy,19264,4137.458472,China,,,-0.557473366,,,,7.57E+12,9.54,,0.714,,Germany,,,0.92,,Smuggling-Mislabelling-Origin Masking
+Row384,RASFF,Meat,12,2012,Lightly processed meat mixes,Easy,High,Easy,22016,3860.238009,China,39,62.3,-0.562117982,,3.52,,8.56E+12,7.86,,0.722,,Italy,42,75.3,1.11,,Smuggling-Mislabelling-Origin Masking
+Row385,RASFF,Mixed_foods,3,2012,Various food products,Easy,,,,,China,39,62.3,-0.562117982,,3.52,,8.56E+12,7.86,,0.722,,Germany,79,81.2,0.92,,Smuggling-Mislabelling-Origin Masking
+Row386,RASFF,Prepared_meals,7,2014,Prepared meals,,,,,,China,36,63.5,-0.475650474,4,3.53,70,1.05E+13,7.3,,0.738,,Italy,43,75.8,1.11,,Substitution-Dilution
+Row387,RASFF,Prepared_meals,7,2014,Prepared meals,,,,,,China,36,63.5,-0.475650474,4,3.53,70,1.05E+13,7.3,,0.738,,Italy,43,75.8,1.11,,Substitution-Dilution
+Row388,RASFF,Meat,3,2014,Minced meat mixes,Easy,High,Easy,62876,3158.629684,Thailand,38,59.5,-0.301932571,3,3.43,76,4.07E+11,0.98,,0.735,,Switzerland,86,81.4,,,Smuggling-Mislabelling-Origin Masking
+Row389,RASFF,Meat,7,2014,Lightly processed meat mixes,Easy,High,Easy,23595,4668.700996,China,36,63.5,-0.475650474,4,3.53,70,1.05E+13,7.3,,0.738,,Italy,43,75.8,1.11,,Smuggling-Mislabelling-Origin Masking
+Row390,RASFF,Meat,5,2015,Lightly processed meat mixes,Easy,High,Easy,,,Nigeria,26,37.7,-1.025004054,6,,59,4.81E+11,2.65,,0.527,,United Kingdom,81,79.3,1.19,,Smuggling-Mislabelling-Origin Masking
+Row391,RASFF,Fish_Seafood,6,2016,Cured fish,Difficult,,,,,Nigeria,28,39.4,-1.041940739,7,2.63,58,4.05E+11,-1.62,35.9,0.53,23.15,United Kingdom,81,81.9,1.19,,Smuggling-Mislabelling-Origin Masking
+Row392,RASFF,Meat,7,2017,Lightly processed meat mixes,Easy,High,Easy,,,China,41,63.7,,4,,69,1.22E+13,6.9,77.66,0.752,52.54,Italy,50,75.9,1.11,68.2,Smuggling-Mislabelling-Origin Masking
+Row393,RASFF,Meat,9,2018,Lightly processed meat mixes,Easy,High,Easy,,,Ghana,,,,,2.57,69,,,18.41,,,United Kingdom,,,1.19,,Smuggling-Mislabelling-Origin Masking
+Row394,RASFF,Meat,9,2018,Offals,Easy,High,Easy,,,Thailand,,,,,3.41,76,,,44.31,,,Norway,,,0.25,,Smuggling-Mislabelling-Origin Masking
+Row395,RASFF,Meat,5,2008,Minced meat mixes,Easy,High,Easy,16043,3743.252509,China,,,-0.522481193,,,,4.60E+12,9.65,,0.685,,Slovenia,,,0.96,,Smuggling-Mislabelling-Origin Masking
+Row396,RASFF,Poultry,1,2008,Raw chicken meat,Easy,High,Easy,464403,3142.878061,Germany,,,1.46662268,,,,3.75E+12,1.08,,0.917,,Poland,,,3.52,,Smuggling-Mislabelling-Origin Masking
+Row397,RASFF,Poultry,4,2009,Lightly processed chicken meat,Easy,High,Easy,596516,2759.419697,Thailand,,,-0.32255057,,,,2.82E+11,-0.69,,0.718,,Denmark,,,0.11,,Smuggling-Mislabelling-Origin Masking
+Row398,RASFF,Meat,7,2009,Raw meat mixes,Easy,High,Easy,,,Poland,,,0.753707747,,,,4.40E+11,2.82,,0.828,,Greece,,,2.83,,Substitution-Dilution
+Row399,RASFF,Poultry,9,2009,Lightly processed poultry meat,Easy,High,Easy,1656,1089.975845,India,,,-0.278410222,,,,1.32E+12,8.48,,0.57,,United Kingdom,,,1.19,,Smuggling-Mislabelling-Origin Masking
+Row400,RASFF,Poultry,10,2009,Raw chicken meat,Easy,High,Easy,19285,1166.087633,Greece,,,0.476691592,,,,3.30E+11,-4.3,,0.858,,Czech Republic,,,0.2,,Smuggling-Mislabelling-Origin Masking
+Row401,RASFF,Poultry,4,2010,Lightly processed meat mixes,Easy,High,Easy,1267048,1709.866556,China,,,-0.575755044,,3.49,,6.10E+12,10.64,,0.706,,Germany,,,0.92,,Smuggling-Mislabelling-Origin Masking
+Row402,RASFF,Poultry,9,2011,Raw poultry meat,Easy,High,Easy,1467693,1800.376509,China,,,-0.557473366,,,,7.57E+12,9.54,,0.714,,Poland,,,3.52,,Smuggling-Mislabelling-Origin Masking
+Row403,RASFF,Poultry,8,2011,Lightly processed duck meat,Easy,High,Easy,1467693,1800.376509,China,,,-0.557473366,,,,7.57E+12,9.54,,0.714,,Denmark,,,0.11,,Smuggling-Mislabelling-Origin Masking
+Row404,RASFF,Poultry,2,2011,Minced chicken meat,Easy,High,Easy,11379,4067.141225,Philippines,,,-0.454597298,,,,2.24E+11,3.66,,0.67,,Norway,,,0.25,,Smuggling-Mislabelling-Origin Masking
+Row405,RASFF,Poultry,1,2014,Raw chicken meat,Easy,High,Easy,512492,2454.853929,Belgium,76,76.9,1.283949862,4,4.04,81,5.31E+11,1.29,,0.909,,Belgium,76,76.9,0.73,,Smuggling-Mislabelling-Origin Masking
+Row406,RASFF,Poultry,12,2014,Raw chicken meat,Easy,High,Easy,512492,2454.853929,Belgium,76,76.9,1.283949862,4,4.04,81,5.31E+11,1.29,,0.909,,Belgium,76,76.9,0.73,,Substitution-Dilution
+Row407,RASFF,Poultry,7,2017,Lightly processed chicken meat,Easy,High,Easy,,,Thailand,37,58.3,,7,,76,4.55E+11,3.9,44.69,0.755,37.57,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row408,RASFF,Poultry,4,2017,Lightly processed chicken meat,Easy,High,Easy,,,Thailand,37,58.3,,7,,76,4.55E+11,3.9,44.69,0.755,37.57,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row409,RASFF,Poultry,11,2017,Lightly processed chicken meat,Easy,High,Easy,,,Thailand,37,58.3,,7,,76,4.55E+11,3.9,44.69,0.755,37.57,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row410,RASFF,Poultry,8,2017,Lightly processed chicken meat,Easy,High,Easy,,,Thailand,37,58.3,,7,,76,4.55E+11,3.9,44.69,0.755,37.57,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row411,RASFF,Poultry,8,2017,Lightly processed chicken meat,Easy,High,Easy,,,Thailand,37,58.3,,7,,76,4.55E+11,3.9,44.69,0.755,37.57,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row412,RASFF,Prepared_meals,12,2018,Prepared meals,,,,,,China,,,,,3.61,69,,,78.29,,,Spain,,,8.24,,Smuggling-Mislabelling-Origin Masking
+Row413,RASFF,Meat,12,2008,Lightly processed meat mixes,Easy,High,Easy,1674,3065.113501,Philippines,,,-0.546866584,,,,1.74E+11,4.15,,0.661,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row414,RASFF,Meat,12,2008,Minced meat mixes,Easy,High,Easy,1674,3065.113501,Philippines,,,-0.546866584,,,,1.74E+11,4.15,,0.661,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row415,RASFF,Prepared_meals,4,2011,Prepared meals,,,,,,China,,,-0.557473366,,,,7.57E+12,9.54,,0.714,,Italy,,,1.11,,Substitution-Dilution
+Row416,RASFF,Prepared_meals,3,2011,Prepared meals,,,,,,China,,,-0.557473366,,,,7.57E+12,9.54,,0.714,,Italy,,,1.11,,Substitution-Dilution
+Row417,RASFF,Prepared_meals,3,2011,Prepared meals,,,,,,China,,,-0.557473366,,,,7.57E+12,9.54,,0.714,,Italy,,,1.11,,Substitution-Dilution
+Row418,RASFF,Prepared_meals,8,2013,Prepared meals,,,,,,Italy,43,74.7,0.524575106,2,,,2.13E+12,-1.73,,0.876,,United Kingdom,76,79,1.19,,Substitution-Dilution
+Row419,RASFF,Prepared_meals,2,2013,Prepared meals,,,,,,France,,,,,,,,,,0.507,,Germany,78,80.9,0.92,,Substitution-Dilution
+Row420,RASFF,Meat,2,2013,Lightly processed cow meat,Easy,High,Easy,146652,3950.099555,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Germany,78,80.9,0.92,,Substitution-Dilution
+Row421,RASFF,Prepared_meals,2,2013,Prepared meals,,,,,,Germany,78,80.9,1.482173642,6,,,3.75E+12,0.49,,0.928,,Austria,69,79.2,0.21,,Substitution-Dilution
+Row422,RASFF,Prepared_meals,2,2013,Prepared meals,,,,,,Brazil,42,67.7,-0.004246733,2,,,2.47E+12,3.01,,0.748,,Italy,43,74.7,1.11,,Substitution-Dilution
+Row423,RASFF,Prepared_meals,2,2013,Prepared meals,,,,,,Germany,78,80.9,1.482173642,6,,,3.75E+12,0.49,,0.928,,Austria,69,79.2,0.21,,Substitution-Dilution
+Row424,RASFF,Soups_sauce,2,2013,Soups and sauces,Easy,,,,,Austria,69,79.2,1.55033356,4,,,4.30E+11,0.03,,0.897,,Germany,78,80.9,0.92,,Substitution-Dilution
+Row425,RASFF,Prepared_meals,2,2013,Prepared meals,,,,,,Italy,43,74.7,0.524575106,2,,,2.13E+12,-1.73,,0.876,,Italy,43,74.7,1.11,,Substitution-Dilution
+Row426,RASFF,Prepared_meals,2,2013,Prepared meals,,,,,,Hungary,54,71.6,0.666547885,6,,,1.35E+11,2.1,,0.835,,Denmark,91,80.5,0.11,,Substitution-Dilution
+Row427,RASFF,Prepared_meals,2,2013,Prepared meals,,,,,,Italy,43,74.7,0.524575106,2,,,2.13E+12,-1.73,,0.876,,Italy,43,74.7,1.11,,Substitution-Dilution
+Row428,RASFF,Prepared_meals,2,2013,Prepared meals,,,,,,Liechtenstein,,,1.607650002,,,,6.39E+09,,,0.912,,Slovenia,57,,0.96,,Substitution-Dilution
+Row429,RASFF,Prepared_meals,2,2013,Prepared meals,,,,,,Belgium,75,77.6,1.387373,4,,,5.21E+11,0.2,,0.908,,Netherlands,83,82.4,2.66,,Substitution-Dilution
+Row430,RASFF,Prepared_meals,2,2013,Prepared meals,,,,,,France,71,83,1.177209606,4,,,2.81E+12,0.58,,0.889,,Germany,78,80.9,0.92,,Substitution-Dilution
+Row431,RASFF,Prepared_meals,2,2013,Prepared meals,,,,,,Ireland,72,81.4,1.425223271,7,,,2.39E+11,1.64,,0.911,,France,71,83,0.74,,Substitution-Dilution
+Row432,RASFF,Prepared_meals,8,2013,Prepared meals,,,,,,Italy,43,74.7,0.524575106,2,,,2.13E+12,-1.73,,0.876,,Italy,43,74.7,1.11,,Substitution-Dilution
+Row433,RASFF,Grain_products,8,2013,Cereal products,Easy,,,70820,3168.652923,Ireland,72,81.4,1.425223271,7,,,2.39E+11,1.64,,0.911,,United Kingdom,76,79,1.19,,Substitution-Dilution
+Row434,RASFF,Prepared_meals,8,2013,Prepared meals,,,,,,France,71,83,1.177209606,4,,,2.81E+12,0.58,,0.889,,Belgium,75,77.6,0.73,,Substitution-Dilution
+Row435,RASFF,Prepared_meals,12,2013,Prepared meals,,,,,,Netherlands,83,82.4,1.691046596,2,,,8.67E+11,-0.19,,0.923,,Germany,78,80.9,0.92,,Substitution-Dilution
+Row436,RASFF,Mixed_foods,3,2013,Various food products,Easy,,,,,Italy,43,74.7,0.524575106,2,,,2.13E+12,-1.73,,0.876,,Italy,43,74.7,1.11,,Substitution-Dilution
+Row437,RASFF,Prepared_meals,3,2013,Prepared meals,,,,,,Sweden,89,80.1,1.810821096,6,,,5.79E+11,1.24,,0.912,,Netherlands,83,82.4,2.66,,Substitution-Dilution
+Row438,RASFF,Meat,3,2013,Lightly processed cow meat,Easy,High,Easy,146652,3950.099555,Poland,60,71.6,0.859327704,7,,,5.24E+11,1.39,,0.85,,Germany,78,80.9,0.92,,Substitution-Dilution
+Row439,RASFF,Prepared_meals,3,2013,Prepared meals,,,,,,Italy,43,74.7,0.524575106,2,,,2.13E+12,-1.73,,0.876,,Italy,43,74.7,1.11,,Substitution-Dilution
+Row440,RASFF,Prepared_meals,11,2013,Prepared meals,,,,,,Czech Republic,48,74,0.885864675,5,,,2.09E+11,-0.48,,0.874,,Germany,78,80.9,0.92,,Substitution-Dilution
+Row441,RASFF,Prepared_meals,4,2013,Prepared meals,,,,,,Belgium,75,77.6,1.387373,4,,,5.21E+11,0.2,,0.908,,Luxembourg,80,,,,Substitution-Dilution
+Row442,RASFF,Prepared_meals,3,2013,Prepared meals,,,,,,Portugal,62,78.4,0.976643552,2,,,2.26E+11,-1.13,,0.837,,Portugal,62,78.4,3.78,,Substitution-Dilution
+Row443,RASFF,Prepared_meals,8,2013,Prepared meals,,,,,,France,71,83,1.177209606,4,,,2.81E+12,0.58,,0.889,,Spain,59,77.7,8.24,,Substitution-Dilution
+Row444,RASFF,Prepared_meals,1,2015,Prepared meals,,,,,,China,37,64.3,-0.464049285,4,,70,1.11E+13,6.9,,0.743,,Netherlands,84,82.2,2.66,,Smuggling-Mislabelling-Origin Masking
+Row445,RASFF,Prepared_meals,4,2016,Prepared meals,,,,,,Brazil,40,67.6,-0.147756846,2,3.09,68,1.79E+12,-3.47,32.62,0.758,33.19,Portugal,62,80,3.78,,Smuggling-Mislabelling-Origin Masking
+Row446,RASFF,Prepared_meals,4,2016,Prepared meals,,,,,,Brazil,40,67.6,-0.147756846,2,3.09,68,1.79E+12,-3.47,32.62,0.758,33.19,Portugal,62,80,3.78,,Smuggling-Mislabelling-Origin Masking
+Row447,RASFF,Snacks,6,2017,Snacks,Easy,,,,,Iran,30,,,2,,57,4.40E+11,4.3,65.12,0.798,32.09,Sweden,84,81.7,0.22,94.7,Artificial enhancement/Improvement
+Row448,RASFF,Prepared_meals,7,2017,Snails and snail products,,,,,,China,41,63.7,,4,,69,1.22E+13,6.9,77.66,0.752,52.54,United Kingdom,82,84.2,1.19,84.4,Smuggling-Mislabelling-Origin Masking
+Row449,RASFF,Prepared_meals,5,2018,Prepared meals,,,,,,Philippines,,,,,2.9,70,,,42.53,,,Norway,,,0.25,,Substitution-Dilution
+Row450,RASFF,Snacks,5,2018,Snacks,Easy,,,,,Philippines,,,,,2.9,70,,,42.53,,,Norway,,,0.25,,Smuggling-Mislabelling-Origin Masking
+Row451,RASFF,Prepared_meals,7,2018,Prepared meals,,,,,,China,,,,,3.61,69,,,78.29,,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row452,RASFF,Prepared_meals,2,2018,Prepared meals,,,,,,China,,,,,3.61,69,,,78.29,,,Italy,,,1.11,,Substitution-Dilution
+Row453,RASFF,Prepared_meals,3,2018,Prepared meals,,,,,,China,,,,,3.61,69,,,78.29,,,Italy,,,1.11,,Smuggling-Mislabelling-Origin Masking
+Row454,RASFF,Soups_sauce,5,2010,Soups and sauces,Easy,,,,,Pakistan,,,-1.110560318,,2.53,,1.77E+11,1.61,,0.526,,Italy,,,1.11,,Substitution-Dilution
+Row455,RASFF,Soups_sauce,8,2012,Soups and sauces,Easy,,,,,Ukraine,26,57.8,-0.568437979,,2.85,,1.76E+11,0.24,,0.743,,Hungary,55,71.9,0.37,,Smuggling-Mislabelling-Origin Masking
+Row456,RASFF,Fish_Seafood,3,2017,Fish products,Difficult,,,,,Philippines,34,47.3,,1,,68,3.14E+11,6.68,41.08,0.699,32.48,Portugal,63,79,3.78,73.7,Smuggling-Mislabelling-Origin Masking
+Row457,RASFF,Soups_sauce,12,2018,Soups and sauces,Easy,,,,,China,,,,,3.61,69,,,78.29,,,Italy,,,1.11,,Substitution-Dilution

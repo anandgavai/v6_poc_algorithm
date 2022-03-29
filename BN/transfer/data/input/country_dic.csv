@@ -1,0 +1,262 @@
+row ID,ISO3,Country,ISO2
+Row0,AFG,Afghanistan,AF
+Row1,ALB,Albania,AL
+Row2,DZA,Algeria,DZ
+Row3,ASM,American Samoa,AS
+Row4,AND,Andorra,AD
+Row5,AGO,Angola,AO
+Row6,AIA,Anguilla,AI
+Row7,ATA,Antarctica,AQ
+Row8,ATG,Antigua and Barbuda,AG
+Row9,ARG,Argentina,AR
+Row10,ARM,Armenia,AM
+Row11,ABW,Aruba,AW
+Row12,AUS,Australia,AU
+Row13,AUT,Austria,AT
+Row14,AZE,Azerbaijan,AZ
+Row15,BHS,Bahamas,BS
+Row16,BHR,Bahrain,BH
+Row17,BGD,Bangladesh,BD
+Row18,BRB,Barbados,BB
+Row19,BLR,Belarus,BY
+Row20,BEL,Belgium,BE
+Row21,BLZ,Belize,BZ
+Row22,BEN,Benin,BJ
+Row23,BMU,Bermuda,BM
+Row24,BTN,Bhutan,BT
+Row25,BOL,Bolivia,BO
+Row26,BOL,"Bolivia, Plurinational State of",BO
+Row27,BIH,Bosnia and Herzegovina,BA
+Row28,BWA,Botswana,BW
+Row29,BVT,Bouvet Island,BV
+Row30,BRA,Brazil,BR
+Row31,IOT,British Indian Ocean Territory,IO
+Row32,BRN,Brunei Darussalam,BN
+Row33,BGR,Bulgaria,BG
+Row34,BFA,Burkina Faso,BF
+Row35,BDI,Burundi,BI
+Row36,KHM,Cambodia,KH
+Row37,CMR,Cameroon,CM
+Row38,CAN,Canada,CA
+Row39,CPV,Cape Verde,CV
+Row40,CYM,Cayman Islands,KY
+Row41,CAF,Central African Republic,CF
+Row42,TCD,Chad,TD
+Row43,CHL,Chile,CL
+Row44,CHN,China,CN
+Row45,CXR,Christmas Island,CX
+Row46,CCK,Cocos (Keeling) Islands,CC
+Row47,COL,Colombia,CO
+Row48,COM,Comoros,KM
+Row49,COG,Congo,CG
+Row50,COD,Democratic Republic of the Congo,CD
+Row51,COD,"Congo, the Democratic Republic of the",CD
+Row52,COK,Cook Islands,CK
+Row53,CRI,Costa Rica,CR
+Row54,HRV,Croatia,HR
+Row55,CUB,Cuba,CU
+Row56,CYP,Cyprus,CY
+Row57,CZE,Czech Republic,CZ
+Row58,CIV,Côte d'Ivoire,CI
+Row59,DNK,Denmark,DK
+Row60,DJI,Djibouti,DJ
+Row61,DMA,Dominica,DM
+Row62,DOM,Dominican Republic,DO
+Row63,ECU,Ecuador,EC
+Row64,EGY,Egypt,EG
+Row65,SLV,El Salvador,SV
+Row66,GNQ,Equatorial Guinea,GQ
+Row67,ERI,Eritrea,ER
+Row68,EST,Estonia,EE
+Row69,ETH,Ethiopia,ET
+Row70,FLK,Falkland Islands,FK
+Row71,FLK,Falkland Islands (Malvinas),FK
+Row72,FRO,Faeroe Islands,FO
+Row73,FRO,Faroe Islands,FO
+Row74,FJI,Fiji,FJ
+Row75,FIN,Finland,FI
+Row76,FRA,France,FR
+Row77,GUF,French Guiana,GF
+Row78,PYF,French Polynesia,PF
+Row79,ATF,French Southern Territories,TF
+Row80,GAB,Gabon,GA
+Row81,GMB,Gambia,GM
+Row82,GEO,Georgia,GE
+Row83,DEU,Germany,DE
+Row84,GHA,Ghana,GH
+Row85,GIB,Gibraltar,GI
+Row86,GRC,Greece,GR
+Row87,GRL,Greenland,GL
+Row88,GRD,Grenada,GD
+Row89,GLP,Guadeloupe,GP
+Row90,GUM,Guam,GU
+Row91,GTM,Guatemala,GT
+Row92,GGY,Guernsey,?
+Row93,GIN,Guinea,GN
+Row94,GNB,Guinea-Bissau,GW
+Row95,GUY,Guyana,GY
+Row96,HTI,Haiti,HT
+Row97,HMD,Heard Island and McDonald Islands,HM
+Row98,VAT,Holy See (Vatican City State),VA
+Row99,HND,Honduras,HN
+Row100,HKG,Hong Kong,HK
+Row101,HUN,Hungary,HU
+Row102,ISL,Iceland,IS
+Row103,IND,India,IN
+Row104,IDN,Indonesia,ID
+Row105,IRN,Iran,IR
+Row106,IRN,"Iran, Islamic Republic of",IR
+Row107,IRQ,Iraq,IQ
+Row108,IRL,Ireland,IE
+Row109,IMN,Isle of Man,IM
+Row110,ISR,Israel,IL
+Row111,ITA,Italy,IT
+Row112,JAM,Jamaica,JM
+Row113,JPN,Japan,JP
+Row114,JEY,Jersey,?
+Row115,JOR,Jordan,JO
+Row116,KAZ,Kazakhstan,KZ
+Row117,KEN,Kenya,KE
+Row118,KIR,Kiribati,KI
+Row119,RKS,Kosovo,RS
+Row120,PRK,"Korea, Democratic People's Republic of",KP
+Row121,KOR,South Korea,KR
+Row122,KOR,"Korea, Republic of",KR
+Row123,KWT,Kuwait,KW
+Row124,KGZ,Kyrgyzstan,KG
+Row125,LAO,Lao People's Democratic Republic,LA
+Row126,LVA,Latvia,LV
+Row127,LBN,Lebanon,LB
+Row128,LSO,Lesotho,LS
+Row129,LBR,Liberia,LR
+Row130,LBY,Libyan Arab Jamahiriya,LY
+Row131,LIE,Liechtenstein,LI
+Row132,LTU,Lithuania,LT
+Row133,LUX,Luxembourg,LU
+Row134,MAC,Macao,MO
+Row135,MKD,Republic of North Macedonia,MK
+Row136,MKD,"Macedonia, the former Yugoslav Republic of",MK
+Row137,MDG,Madagascar,MG
+Row138,MWI,Malawi,MW
+Row139,MYS,Malaysia,MY
+Row140,MDV,Maldives,MV
+Row141,MLI,Mali,ML
+Row142,MLT,Malta,MT
+Row143,MHL,Marshall Islands,MH
+Row144,MTQ,Martinique,MQ
+Row145,MRT,Mauritania,MR
+Row146,MUS,Mauritius,MU
+Row147,MYT,Mayotte,YT
+Row148,MEX,Mexico,MX
+Row149,FSM,"Micronesia, Federated States of",FM
+Row150,MDA,Moldova,MD
+Row151,MDA,"Moldova, Republic of",MD
+Row152,MCO,Monaco,MC
+Row153,MNG,Mongolia,MN
+Row154,MNE,Montenegro,ME
+Row155,MSR,Montserrat,MS
+Row156,MAR,Morocco,MA
+Row157,MOZ,Mozambique,MZ
+Row158,MMR,Myanmar,MM
+Row159,NAM,Namibia,NA
+Row160,NRU,Nauru,NR
+Row161,NPL,Nepal,NP
+Row162,NLD,Netherlands,NL
+Row163,ANT,Netherlands Antilles,AN
+Row164,NCL,New Caledonia,NC
+Row165,NZL,New Zealand,NZ
+Row166,NIC,Nicaragua,NI
+Row167,NER,Niger,NE
+Row168,NGA,Nigeria,NG
+Row169,NIU,Niue,NU
+Row170,NFK,Norfolk Island,NF
+Row171,MNP,Northern Mariana Islands,MP
+Row172,NOR,Norway,NO
+Row173,OMN,Oman,OM
+Row174,PAK,Pakistan,PK
+Row175,PLW,Palau,PW
+Row176,PSE,"Palestinian Territory, Occupied",?
+Row177,PAN,Panama,PA
+Row178,PNG,Papua New Guinea,PG
+Row179,PRY,Paraguay,PY
+Row180,PER,Peru,PE
+Row181,PHL,Philippines,PH
+Row182,PCN,Pitcairn,PN
+Row183,POL,Poland,PL
+Row184,PRT,Portugal,PT
+Row185,PRI,Puerto Rico,PR
+Row186,QAT,Qatar,QA
+Row187,ROU,Romania,RO
+Row188,RUS,Russia,RU
+Row189,RUS,Russian Federation,RU
+Row190,RWA,Rwanda,RW
+Row191,REU,Réunion,RE
+Row192,BLM,Saint Barthélemy,?
+Row193,SHN,"Saint Helena, Ascension and Tristan da Cunha",SH
+Row194,KNA,Saint Kitts and Nevis,KN
+Row195,LCA,Saint Lucia,LC
+Row196,MAF,Saint Martin (French part),?
+Row197,SPM,Saint Pierre and Miquelon,PM
+Row198,VCT,Saint Vincent and the Grenadines,VC
+Row199,WSM,Samoa,WS
+Row200,SMR,San Marino,SM
+Row201,STP,Sao Tome and Principe,ST
+Row202,SAU,Saudi Arabia,SA
+Row203,SEN,Senegal,SN
+Row204,SRB,Serbia,RS
+Row205,SYC,Seychelles,SC
+Row206,SLE,Sierra Leone,SL
+Row207,SGP,Singapore,SG
+Row208,SVK,Slovakia,SK
+Row209,SVN,Slovenia,SI
+Row210,SLB,Solomon Islands,SB
+Row211,SOM,Somalia,SO
+Row212,ZAF,South Africa,ZA
+Row213,SGS,South Georgia and the South Sandwich Islands,GS
+Row214,ESP,Spain,ES
+Row215,LKA,Sri Lanka,LK
+Row216,SDN,Sudan,SD
+Row217,SUR,Suriname,SR
+Row218,SJM,Svalbard and Jan Mayen,SJ
+Row219,SWZ,Swaziland,SZ
+Row220,SWE,Sweden,SE
+Row221,CHE,Switzerland,CH
+Row222,SYR,Syria,SY
+Row223,SYR,Syrian Arab Republic,SY
+Row224,TWN,Taiwan,TW
+Row225,TWN,"Taiwan, Province of China",TW
+Row226,TJK,Tajikistan,TJ
+Row227,TZA,Tanzania,TZ
+Row228,TZA,"Tanzania, United Republic of",TZ
+Row229,THA,Thailand,TH
+Row230,TLS,Timor-Leste,TL
+Row231,TGO,Togo,TG
+Row232,TKL,Tokelau,TK
+Row233,TON,Tonga,TO
+Row234,TTO,Trinidad and Tobago,TT
+Row235,TUN,Tunisia,TN
+Row236,TUR,Turkey,TR
+Row237,TKM,Turkmenistan,TM
+Row238,TCA,Turks and Caicos Islands,TC
+Row239,TUV,Tuvalu,TV
+Row240,UGA,Uganda,UG
+Row241,UKR,Ukraine,UA
+Row242,ARE,United Arab Emirates,AE
+Row243,GBR,United Kingdom,GB
+Row244,USA,United States,US
+Row245,UMI,United States Minor Outlying Islands,UM
+Row246,URY,Uruguay,UY
+Row247,UZB,Uzbekistan,UZ
+Row248,VUT,Vanuatu,VU
+Row249,VEN,Venezuela,VE
+Row250,VEN,"Venezuela, Bolivarian Republic of",VE
+Row251,VNM,Vietnam,VN
+Row252,VNM,Viet Nam,VN
+Row253,VGB,"Virgin Islands, British",VG
+Row254,VIR,"Virgin Islands, U.S.",VI
+Row255,WLF,Wallis and Futuna,WF
+Row256,ESH,Western Sahara,EH
+Row257,YEM,Yemen,YE
+Row258,ZMB,Zambia,ZM
+Row259,ZWE,Zimbabwe,ZW
+Row260,ALA,Åland Islands,?
