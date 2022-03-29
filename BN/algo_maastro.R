@@ -2,6 +2,7 @@ library(bnlearn)
 library(tidyverse)
 library(graph)
 library(gRbase)
+
 library(gRain)
 
 
